@@ -1,0 +1,860 @@
+book_id,name,author,language,category,average_rate,maturity,publisher,published_date,page_count
+0,Sammy Keyes and the Art of Deception,Wendelin Van Draanen,en,['Juvenile Fiction'],4,0,Yearling,2009,304
+1,Inward Journey,Unknown,en,['Medical'],3,0,Open Court Publishing Company,1983,133
+2,The Boston Directory ...,Unknown,en,['Boston'],3,0,Unknown,1865,430.883263
+3,Bring Your Own Devices (BYOD) Survival Guide,Jessica Keyes,en,['Business & Economics'],3,0,CRC Press,2016,451
+4,Enterprise 2.0,Jessica Keyes,en,['Business & Economics'],3,0,CRC Press,2016,425
+5,The CIO's Guide to Oracle Products and Solutions,Jessica Keyes,en,['Business & Economics'],3,0,CRC Press,2014,288
+6,Implementing the IT Balanced Scorecard,Jessica Keyes,en,['Computers'],3,0,CRC Press,2016,528
+7,Implementing the Project Management Balanced Scorecard,Jessica Keyes,en,['Business & Economics'],3,0,CRC Press,2010,447
+8,Social Software Engineering,Jessica Keyes,en,['Computers'],3,0,CRC Press,2016,481
+9,Classes on Modern Poets and the Art of Poetry,Unknown,en,['Biography & Autobiography'],4.5,0,Univ of South Carolina Press,2004,310
+10,Population Health Science,Sandro Galea,en,None,3,0,Oxford University Press,2016,224
+11,Retelling the Nicaraguan Revolution as a Dionysian Ritual,Martina Handler,en,['History'],3,0,LIT Verlag Münster,2010,139
+12,Flowers for Algernon,BookCaps Study Guides Staff,en,['Biography & Autobiography'],3,0,BookCaps Study Guides,2011,430.883263
+13,Handbook of Applied Developmental Science,Francine Jacobs,en,['Psychology'],3,0,SAGE,2003,2296
+14,Wade Keyes' introductory lecture to the Montgomery Law School,Wade Keyes,en,['Law'],3,0,Unknown,2001,45
+15,The Journal of the Iowa Academy of Science,Unknown,en,['Science'],3,0,Unknown,1989,430.883263
+16,Dental Science in a New Age,Ruth Roy Harris,en,['Dentistry'],3,0,Unknown,1989,476
+17,List of the Scientific Writings of Charles Rollin Keyes,Unknown,en,['Geology'],3,0,Unknown,1909,23
+18,A Study Guide for Daniel Keyes's Flowers for Algernon,Gale Cengage Learning,en,['Literary Criticism'],3,0,"Gale, Cengage Learning ",2015,15
+19,Domain-based Parallelism and Problem Decomposition Methods in Computational Science and Engineering,Yousef Saad,en,['Mathematical optimization'],3,0,SIAM,1995,323
+20,United States Department of Commerce Telephone Directory,United States. Dept. of Commerce,en,None,3,0,Unknown,1991,430.883263
+22,Technology Trendlines,Jessica Keyes,en,['Business & Economics'],3,0,John Wiley & Sons,1995,394
+23,Biography and Genealogy Master Index,Unknown,en,['Biography'],3,0,Unknown,1997,430.883263
+24,Technical Paper - Bureau of Mines,United States. Bureau of Mines,en,['Mineral industries'],3,0,Unknown,1931,430.883263
+25,The Corporate Directory of US Public Companies 1995,Elizabeth Walsh,en,['Business & Economics'],3,0,Springer,2016,2664
+26,"The National Deans List, 1997-98",Unknown,en,['Students'],3,0,Unknown,1998,832
+27,Who's who in Technology,Unknown,en,['Technologists'],3,0,Unknown,1986,430.883263
+28,The United States Patents Quarterly,Unknown,en,['Copyright'],3,0,Unknown,1996,430.883263
+29,ACSA Annual Directory,Association of Collegiate Schools of Architecture,en,['Architecture'],3,0,Unknown,1991,430.883263
+30,"World War II: the Encyclopedia of the War Years, 1941-1945",Unknown,en,['History'],1,0,Courier Corporation,2012,940
+31,Bulletin - New Mexico Bureau of Mines & Mineral Resources,New Mexico. Bureau of Mines and Mineral Resources,en,['Geology'],3,0,Unknown,1915,430.883263
+32,Whitaker's Five-year Cumulative Book List,Unknown,en,['English literature'],3,0,Unknown,1968,430.883263
+33,American Predator,Maureen Callahan,en,['True Crime'],4,0,Penguin,2019,304
+34,Whitaker's Cumulative Book List,Unknown,en,['Great Britain'],3,0,Unknown,1961,430.883263
+35,"Business Organizations, Keyed to Soderquist",Casenotes,en,['Business & Economics'],3,0,Aspen Publishers Online,2006,208
+36,Next-Generation Biofuels,William T. Coyle,en,['Alcohol as fuel'],3,0,DIANE Publishing,2010,26
+37,"Casenote Legal Briefs for Business Organizations, Keyed to Smiddy and Cunningham",Casenote Legal Briefs,en,['Law'],3,0,Wolters Kluwer Law & Business,2011,252
+38,No Oath Sworn,Phil Geusz,en,['Fiction'],3,0,Lulu.com,2012,226
+39,Southern Writers,Unknown,en,['Reference'],3,0,LSU Press,2006,504
+40,Therapist's Guide to Positive Psychological Interventions,Jeana L. Magyar-Moe,en,['Psychology'],3,0,Academic Press,2009,200
+41,A Handbook for the Study of Mental Health,Unknown,en,['Medical'],3,0,Cambridge University Press,2017,736
+42,Foundations of Professional Psychology,Timothy P Melchert,en,['Psychology'],3,0,Elsevier,2011,262
+44,Brain Mystery Light and Dark,Charles Don Keyes,en,['Philosophy'],3,0,Routledge,2006,184
+45,The Courage to Write,Ralph Keyes,en,['Language Arts & Disciplines'],4,0,Holt Paperbacks,2003,240
+46,Epidemiology Matters,Unknown,en,['Medical'],3,0,Oxford University Press,2014,304
+47,"Thermodynamic Functions of Gases: Ammonia, carbon dioxide and carbon monoxide",F. Din,en,['Gases'],3,0,Unknown,1956,175
+48,Journal of Heat Transfer,Unknown,en,['Heat'],3,0,Unknown,1964,430.883263
+49,Data Modeling Essentials,Unknown,en,['Computers'],4,0,Elsevier,2004,560
+50,CliffsNotes on Keyes' Flowers For Algernon,Janet Clark,en,['Literary Criticism'],3,0,Houghton Mifflin Harcourt,2001,66
+51,The Infernal City: An Elder Scrolls Novel,Greg Keyes,en,['Fiction'],3.5,0,Del Rey,2009,304
+52,Sushi for Beginners,Marian Keyes,en,['Fiction'],3.5,0,Harper Collins,2009,448
+53,Angels,Marian Keyes,en,['Fiction'],4,0,Harper Collins,2009,448
+54,Science Fiction and Fantasy Literature,Douglas Menville,en,['Reference'],3,0,Wildside Press LLC,2010,800
+55,Independence Day: Crucible,Greg Keyes,en,['Fiction'],3,0,Titan Books,2016,384
+56,The Mammoth Encyclopedia of Science Fiction,George Mann,en,['Fiction'],3,0,Hachette UK,2012,160
+57,The Mystery of Mercy Close,Marian Keyes,en,['Fiction'],3.5,0,Penguin,2013,400
+58,The New Orleans of Fiction,James A. Kaser,en,['Literary Criticism'],3,0,Scarecrow Press,2014,426
+59,Lord of Souls,J. Gregory Keyes,en,['Fiction'],3,0,Ballantine Books,2011,316
+60,"The Dardanelles Campaign, 1915",Unknown,en,['History'],3,0,Greenwood Publishing Group,1997,163
+61,The Routledge Handbook of Stylistics,Michael Burke,en,['Language Arts & Disciplines'],3,0,Routledge,2017,530
+62,The Liberation Trilogy Box Set,Rick Atkinson,en,['History'],1,0,Henry Holt and Company,2013,2416
+63,Legacy Discovered,Kerry Reis,en,['Fiction'],3,0,Author House,2013,188
+64,"Masterplots II, Short Story Series, Supplement",Frank N. Magill,en,['Juvenile Fiction'],3,0,Unknown,1996,1746
+65,Elisha Jones House and Shed,Unknown,en,['Historic buildings'],3,0,Unknown,2007,207
+66,An Unpredictable Gospel,Jay Riley Case,en,['Religion'],3,0,Oxford University Press,2012,328
+67,Masterplots II.,Charles Edward May,en,['Study Aids'],3,0,Salem Pr Inc,2004,645
+69,Stories and Poems for Opening Exercises,Unknown,en,"[""Children's stories""]",3,0,Unknown,1927,46
+70,"The Encyclopedia of Superheroes on Film and Television, 2d ed.",John Kenneth Muir,en,['Performing Arts'],4,0,McFarland,2004,704
+72,Fishery Bulletin,Unknown,en,['Fisheries'],3,0,Unknown,1986,430.883263
+74,Sammy Keyes and the Kiss Goodbye,Wendelin Van Draanen,en,['Juvenile Fiction'],5,0,Knopf Books for Young Readers,2014,240
+75,Sammy Keyes and the Skeleton Man,Unknown,en,['Juvenile Fiction'],3.5,0,Knopf Books for Young Readers,2003,176
+76,Sammy Keyes and the Psycho Kitty Queen,Wendelin Van Draanen,en,['Juvenile Fiction'],4,0,Yearling,2008,320
+78,Sammy Keyes and the Search for Snake Eyes,Wendelin Van Draanen,en,['Juvenile Fiction'],3.5,0,Yearling,2008,320
+79,Caii Spectrum Or Dr. Keyes's Charge Against Dr. M -- [i.e. Dr. Richard Mead],John Caius (Spirit),en,['Communicable diseases'],3,0,Unknown,1721,22
+80,Resources in Education,Unknown,en,['Education'],3,0,Unknown,1977,430.883263
+81,Chicano School Failure and Success,Richard R. Valencia,en,['Education'],3,0,Psychology Press,2002,383
+82,The Politics of Hispanic Education,Unknown,en,['Education'],3,0,SUNY Press,1991,275
+83,Desegregation and Education Concerns of the Hispanic Community,Unknown,en,"['Education, Bilingual']",3,0,Unknown,1977,103
+84,Linguistic Diversity and National Unity,William A. Smalley,en,['Foreign Language Study'],3,0,University of Chicago Press,1994,436
+85,Synergic Integration of Formal and Informal E-Learning Environments for Adult Lifelong Learners,Leone Sabrina,en,['Education'],3,0,IGI Global,2013,337
+86,"Race and Education, 1954-2007",Raymond Wolters,en,['Education'],3,0,University of Missouri Press,2008,313
+88,Education and the Cult of Efficiency,Raymond E. Callahan,en,['Education'],3,0,University of Chicago Press,1964,286
+89,Readings on Equal Education,Unknown,en,['Socially handicapped children'],3,0,Unknown,1999,271
+90,The Worcester Directory,Unknown,en,['Worcester (Mass.)'],3,0,Unknown,1866,430.883263
+92,Kill Rommel!,Gavin Mortimer,en,['History'],3,0,Bloomsbury Publishing,2014,80
+93,Murder in Hollywood,Charles Higham,en,['Biography & Autobiography'],3,0,Terrace Books,2006,227
+94,"The Somerville, Arlington and Belmont Directory",Unknown,en,None,3,0,Unknown,1869,430.883263
+95,"Greenough, Jones & Co's New Directory of the Inhabitants, Institutions, Manufacturing Establishments, Business, Societies, Business Firms, Etc. Etc. in the City and Town of New Haven for ...",Unknown,en,['Business enterprises'],3,0,Unknown,1874,430.883263
+96,Benham's Embracing a Limited Sketch of Yale College,Unknown,en,None,3,0,Unknown,2000,430.883263
+97,The Wisconsin Magazine of History,Unknown,en,None,3,0,Unknown,1947,430.883263
+98,Wisconsin magazine of history,State Historical Society of Wisconsin,en,['Wisconsin'],3,0,Unknown,1948,430.883263
+99,Rutland Directory,Unknown,en,['Rutland (Vt.)'],3,0,Unknown,1877,430.883263
+100,New Evidence on School Desegregation,Finis Welch,en,['African Americans'],3,0,Unknown,1987,176
+101,Brunswick,Sharon Martin Zankel,en,['History'],3,0,Arcadia Publishing,1998,128
+102,Downstage Dead,Bruce Barber,en,['Actors'],3,0,Pasdeloup Press,2007,203
+103,School as Community,Gail Furman,en,['Education'],3,0,SUNY Press,2012,315
+104,Euphemania,Ralph Keyes,en,['Language Arts & Disciplines'],3,1,Hachette UK,2010,288
+105,Complex Justice,Joshua M. Dunn,en,['Political Science'],3,0,UNC Press Books,2012,240
+106,"Five Miles Away, A World Apart",James E. Ryan,en,['Education'],3,0,Oxford University Press,2010,400
+107,Learning Disabilities,William C. Morse,en,['Education'],3,0,Syracuse University Press,1980,296
+108,California's Charter Schools,California. Bureau of State Audits,en,['Charter schools'],3,0,Unknown,2002,219
+109,America in Black and White,Unknown,en,['Social Science'],3,0,Simon and Schuster,2009,704
+110,PC Mag,Unknown,en,None,3,0,Unknown,1987,362
+115,Computer Decisions,Unknown,en,['Electronic data processing'],3,0,Unknown,1987,430.883263
+116,Fifth International Symposium on Domain Decomposition Methods for Partial Differential Equations,David E. Keyes,en,['Mathematics'],3,0,SIAM,1992,623
+117,Personal Computing,Unknown,en,['Microcomputers'],3,0,Unknown,1989,430.883263
+118,Data sources,Unknown,en,['Computer industry'],3,0,Unknown,2000,430.883263
+119,History of the ... Economic Censuses,Unknown,en,['Economic surveys'],3,0,Unknown,1992,430.883263
+120,A University of Tradition,Purdue Reamer Club,en,['Education'],3,0,Purdue University Press,2012,256
+121,Biology Pamphlets,Unknown,en,['Biology'],3,0,Unknown,1898,430.883263
+122,Biology of the Uterus,Unknown,en,['Medical'],3,0,Springer Science & Business Media,2013,644
+123,Prophets of Agroforestry,Richard K. Reed,en,['History'],3,0,University of Texas Press,2014,271
+124,"Periodontal Disease, Assessing the Effectiveness and Costs of the Keyes Technique",Richard M. Scheffler,en,['Medical instruments and apparatus'],3,0,Unknown,1981,32
+125,Columbia University Quarterly,Unknown,en,None,3,0,Unknown,1913,430.883263
+126,Advances in Experimental Medicine and Biology,Constance Kies,en,['Biology'],3,0,Unknown,1989,307
+127,Biology and Pathology of the Oocyte,Unknown,en,['Medical'],3,0,Cambridge University Press,2003,350
+128,A. B. Bookman's Weekly,Unknown,en,['Antiquarian booksellers'],3,0,Unknown,1987,430.883263
+129,Human Biology,"[\Sara Stinson\ \Barry Bogin\ ""Dennis H. O\Rourke""]",en,['Social Science'],3,0,John Wiley & Sons,2012,780
+130,Quarterly Report,Northwest and Alaska Fisheries Center (U.S.),en,['Fisheries'],3,0,Unknown,1983,430.883263
+131,The Anatomy of Hope,Jerome Groopman,en,['Health & Fitness'],4,0,Random House,2003,272
+132,The Journal of the American Medical Association,American Medical Association,en,['American Medical Association'],3,0,Unknown,1894,430.883263
+133,Bioethical and Evolutionary Approaches to Medicine and the Law,W. Noel Keyes,en,['Medical'],3,0,American Bar Association,2007,1174
+134,Official Gazette of the United States Patent Office,United States. Patent Office,en,['Patents'],3,0,Unknown,1906,430.883263
+135,Directory ... American College of Physicians,American College of Physicians,en,['Medicine'],3,0,Unknown,1935,430.883263
+136,The Azusa Street Mission and Revival,Cecil M. Robeck,en,['History'],4,0,Thomas Nelson,2006,354
+137,Directory,American College of Physicians,en,['Medicine'],3,0,Unknown,1937,430.883263
+138,"Periodontal disease, assessing the effectiveness and costs of the Keyes technique",Unknown,en,None,3,0,DIANE Publishing,2000,430.883263
+139,Standard Directory of Advertising Agencies,Unknown,en,['Advertising'],3,0,National Register,1994,430.883263
+140,Mental Health Challenges in Elite Sport: Balancing Risk with Reward,Judy Van Raalte  Britton W. Brewer  Marc Jones Deirdre O’Shea,en,None,3,0,Frontiers Media SA,2018,430.883263
+141,"Sport, the Third Millennium",Marc Landry Magdeleine Yerlès,en,['Mass media and sports'],3,0,Presses Université Laval,1991,809
+142,"Casenote Legal Briefs for Sports Law, Keyed to Weiler, Roberts, Abrams, and Ross",Casenote Legal Briefs,en,['Law'],3,0,Wolters Kluwer Law & Business,2011,180
+143,"Women, Sport, and Physical Activity",Helen Lenskyj,en,['Feminist criticism'],3,0,Sport Info Resource Centre,1994,46
+144,A Concise history of sport in Canada,Don Morrow,en,['History'],3,0,"Oxford University Press, USA",1989,393
+145,Biography and Genealogy Master Index 2003,Kathy Nemeh,en,['Reference'],3,0,Gale / Cengage Learning,2002,932
+147,Sams Teach Yourself Perl in 21 Days,Rafe Colburn,en,['Computers'],3.5,0,Sams Publishing,2002,676
+149,"Casenote Legal Briefs for Taxation, Keyed to Freeland, Lathrope, and Stephens",Casenote Legal Briefs,en,['Law'],3,0,Wolters Kluwer Law & Business,2013,156
+150,The Mystery of Sex,Elizabeth Keyes,en,['Love'],3,0,Gentle Living Publications,1975,115
+151,Delirium,Nancy L. Cohen,en,['Political Science'],3,0,Catapult,2012,415
+152,American Movie Critics,Phillip Lopate,en,['Performing Arts'],5,0,Unknown,2006,720
+153,The International Encyclopedia of Sexuality: Spain to the United States,Robert T. Francoeur,en,['Psychology'],3,1,Burns & Oates,1997,1737
+155,"The American Bar, the Canadian Bar, the International Bar",Unknown,en,['Lawyers'],3,0,Unknown,1988,430.883263
+156,"Family Law, Keyed to Ellman, Kurtz, & Barlett",Casenotes,en,['Law'],3,0,Aspen Publishers Online,2005,128
+157,"Casenote Legal Briefs for Property Keyed to Dukeminier, Krier, Alexander, Schill, Strahilevitz",Casenote Legal Briefs,en,['Law'],3,0,Wolters Kluwer Law & Business,2017,138
+158,"Family Law, Keyed to Krause, Elrod, Garrison & Oldham",Casenotes,en,['Law'],3,0,Aspen Publishers Online,2004,208
+159,"Family Law, Keyed to Weisberg and Appleton's",Unknown,en,['Law'],3,0,Aspen Publishers Online,2010,204
+161,"The Tryals and Condemnation of Robert Charnock, Edward King, and Thomas Keyes, for the Horrid and Execrable Conspiracy to Assassinate His Sacred Majesty K. William, in Order to a French Invasion of this Kingdom",Robert Charnock,en,"['Lancashire Plot, 1689-1694']",3,0,Unknown,1696,76
+162,Adult Development and Aging,Unknown,en,['Psychology'],3,0,Cengage Learning,2010,625
+163,Saved by Cake,Marian Keyes,en,['Cooking'],4.5,0,Penguin,2013,240
+164,Science and the Riddle of Consciousness,Jeffrey Foss,en,['Computers'],3,0,Springer Science & Business Media,2000,225
+167,"Environmental Law, Keyed to Plater, Abrams, Goldfarb, Graham, Heinzerling & Wirth",Casenotes,en,['Law'],3,0,Aspen Publishers Online,2004,115
+168,Beyond Identity,Dick Keyes,en,None,3,0,Destinee S.A.,2012,214
+170,"Bel Marin Keys Development, Unit 5, 404 Permit",Unknown,en,None,3,0,Unknown,1982,430.883263
+171,Handbook of Midlife Development,Margie E. Lachman,en,['Psychology'],3,0,John Wiley & Sons,2002,672
+172,Textbook of Operative Dentistry,Unknown,en,['Medical'],3,0,Boydell & Brewer Ltd,2010,520
+174,Parasitic Orobanchaceae,Jonathan Gressel,en,['Science'],3,0,Springer Science & Business Media,2013,513
+175,Strategies and Saints,Langley Carleton Keyes,en,['Social Science'],3,0,The Urban Insitute,1992,243
+176,The Economist Development Report,Unknown,en,['International economic relations'],3,0,Unknown,1986,430.883263
+177,"The Handbook of Life-Span Development, Volume 1",Unknown,en,['Psychology'],3,0,John Wiley & Sons,2010,1040
+178,Journal of the Iowa Archeological Society,Iowa Archeological Society,en,['Indians of North America'],3,0,Unknown,2000,430.883263
+179,Localizing development,Henry D. Delcore,en,None,3,0,Unknown,2000,354
+180,"Oxford English-Arabic Dictionary, Al-Muhit, 1996",Dr. Mohamad Badawi,ar,['Reference'],3,0,Bukupedia ,1996,1249
+181,"Al-Muhit-English-Arabic Oxford Study Dictionary, Dr. Mohamad Badawi, 1996",Academia Internatinal Publication,ar,['Reference'],3,0,Bukupedia ,1996,1249
+182,"English-Arabic Oxford-Duden Pictorial Dictionary, 2003",Oxford University Press,ar,['Reference'],3,0,Bukupedia ,2003,490
+183,Get Rommel,Michael Asher,en,['History'],3.5,0,Hachette UK,2011,320
+184,Omega,Unknown,en,['Bereavement'],3,0,Unknown,2002,430.883263
+185,Mastering Arabic 1,Unknown,en,['Foreign Language Study'],3,0,Macmillan International Higher Education,2007,384
+186,Arabic Musical Scales,Cameron Powers,en,['Music'],3,0,cameron powers,2005,56
+187,Advanced standard Arabic through authentic texts and audiovisual materials: Audiovisual materials,Raji M. Rammuny,ar,['Foreign Language Study'],3,0,University of Michigan Press,1994,128
+188,اللغة العربية للمراحل المتقدمة من خلال نصوص ومواد سمعية بصرية أصيلة,Raji M. Rammuny,ar,['Foreign Language Study'],3,0,University of Michigan Press,1994,344
+189,Geoffrey Keyes,Elizabeth Keyes,en,['History'],3,0,Unknown,1956,278
+190,صغر عقلك,معتز مشعل,ar,"['Body, Mind & Spirit']",3,0,Dar Dawen ,2019,246
+191,الآراء والمعتقدات,غوستاف لوبون,ar,None,3,0,دار المحرر الأدبي,2000,232
+192,دع القلق وابدأ الحياة,ديل كارنيجي,ar,['Psychology'],1,0,ktab INC.,2019,315
+193,كيف أصبحوا عظماء,سعد سعود الكريباني,ar,['Self-Help'],3,0,العبيكان للنشر,2015,212
+194,١٠١ طريقة بسيطة لتكون ناجحًا مع نفسك,Donna Watson,ar,['Self-Help'],3,0,العبيكان للنشر,2014,136
+195,الثقة بالنفس وتطوير الذات,أسامة شاهين,ar,['Psychology'],3,0,Al Manhal,2018,64
+196,فن وأسرار اتخاذ القرار,د. إبراهيم الفقي,ar,['Self-Help'],3,0,Sama For Publishing & Distributiom,2017,88
+197,دراسات سيكلوجية,سلامة موسى/-/-,ar,['Literary Collections'],3,0,ktab INC.,2012,101
+198,أيقظ قواك الخفية (كيف تتحكم فوراً بمستقبلك الذهني والعاطفي والجسماني والمالي),أنتوني روبنز,ar,None,3,0,Unknown,2002,559
+199,قوة التحكم في الذات,Unknown,ar,['Self-Help'],1,0,Sama For Publishing & Distributiom,2017,128
+200,Advances in Electronics and Electron Physics,Unknown,en,['Computers'],3,0,Academic Press,1988,368
+201,Advances in Chemical Physics,Unknown,en,['Science'],3,0,John Wiley & Sons,2009,586
+202,Advances in Imaging and Electron Physics,Peter W. Hawkes,en,['Technology & Engineering'],3,0,Elsevier,2011,352
+203,The physics of VLSI systems,Robert W. Keyes,en,['Computers'],3,0,Addison Wesley Publishing Company,1987,243
+204,American Men of Science,Unknown,en,['Scientists'],3,0,Unknown,1960,430.883263
+205,Directory of Physics & Astronomy Staff Members,Unknown,en,['Physics'],3,0,Unknown,1977,430.883263
+206,American men & women of science,Unknown,en,['Biography & Autobiography'],3,0,Unknown,1977,1100
+207,The Complete Guide to Blender Graphics,John M. Blain,en,['Computers'],3,0,CRC Press,2019,522
+208,"The world of learning, 2001",51st Ed,en,['Education'],3,0,Routledge,2000,2192
+209,The Europa world of learning,Driss Fatih,en,['Education'],3,0,Unknown,2005,2708
+210,A Survey of American Chemistry,National Research Council (U.S.). Division of Chemistry and Chemical Technology,en,['Chemistry'],3,0,National Academies,1932,430.883263
+211,Annual Report for Fiscal Year ...,National Science Foundation (U.S.),en,['Research'],3,0,Unknown,1962,430.883263
+212,Biographical Memoirs,Unknown,en,['Biography & Autobiography'],3,0,National Academies Press,1998,388
+213,Commencement,University of California Berkeley,en,None,3,0,Unknown,1960,430.883263
+214,"Organic Chemistry, Volume One",Frank C. Whitmore,en,['Science'],3,0,Courier Corporation,2012,608
+216,Timetable,Unknown,en,None,3,0,Unknown,1937,430.883263
+217,The Journal of Engineering Education,Unknown,en,['Engineering'],3,0,Unknown,1946,430.883263
+218,Imperfect Chemistry,Mary Frame,en,['Fiction'],4.5,0,Mary Frame,2014,198
+220,Commencement[programme],University of California Berkeley,en,"['Dissertations, Academic']",3,0,Unknown,1956,430.883263
+221,Register - University of California,Unknown,en,None,3,0,Unknown,1957,430.883263
+223,Grants and Awards for the Fiscal Year Ended ...,National Science Foundation (U.S.),en,['Federal aid to research'],3,0,Unknown,2000,430.883263
+224,Academic Press Dictionary of Science and Technology,Unknown,en,['Computers'],3,0,Gulf Professional Publishing,1992,2432
+225,The Quality Management Sourcebook,Unknown,en,['Business & Economics'],3,0,Routledge,2002,336
+226,Software Engineering Handbook,Jessica Keyes,en,['Computers'],4.5,0,CRC Press,2002,896
+227,Mechanical Engineering,Unknown,en,['Mechanical engineering'],3,0,Unknown,1981,430.883263
+229,Wastes Engineering,Unknown,en,['Public health'],3,0,Unknown,1962,430.883263
+231,Transescence,Unknown,en,['Junior high schools'],3,0,Unknown,1993,430.883263
+232,American Doctoral Dissertations,Unknown,en,['Dissertation abstracts'],3,0,Unknown,1985,430.883263
+233,The National Faculty Directory,Unknown,en,['College teachers'],3,0,Unknown,2003,430.883263
+234,Who's who in Science and Engineering,Unknown,en,['Engineers'],3,0,Unknown,2008,430.883263
+235,"Who's Who Among Human Services Professionals, 1992-1993",Howard Friedman,en,None,3,0,National Reference Inst Publications,1992,430.883263
+236,Who's who in the West,Unknown,en,['United States'],3,0,Unknown,1992,430.883263
+237,Who's who in America,Unknown,en,['United States'],3,0,Unknown,1900,430.883263
+238,نحن كلنا متشابهون، نحن كلنا مختلفون,Unknown,en,"[""Children's art""]",3,0,Unknown,2006,430.883263
+239,Handbook of Social Indicators and Quality of Life Research,Alex C. Michalos,en,['Social Science'],3,0,Springer Science & Business Media,2011,593
+240,The Woman Who Stole My Life,Marian Keyes,en,['Fiction'],3.5,0,Penguin UK,2014,560
+241,The life of Elisha Williams Keyes,Richard Watson Hantke,en,['Biography & Autobiography'],3,0,Unknown,1942,692
+242,Stevie Wonder's Songs in the Key of Life,Zeth Lundy,en,['Music'],3,0,Bloomsbury Publishing USA,2007,160
+243,Key Notes of Health and a Century of Life,Charles Winfield Scott,en,['Hygiene'],3,0,Unknown,1895,201
+244,Growing Through Life's Challenges,Unknown,en,['Religion'],4.5,0,Shaw Books,2009,112
+245,"Handbook of Adolescent Psychology, Individual Bases of Adolescent Development",Unknown,en,['Psychology'],2,1,John Wiley & Sons,2009,823
+246,"A Critical Dictionary of English Literature and British and American Authors, Living and Deceased",Samuel Austin Allibone,en,['American literature'],3,0,Unknown,1896,3140
+247,The Post-Truth Era,Ralph Keyes,en,['Social Science'],3,0,St. Martin's Press,2004,320
+248,"The early life of Robert M. La Follette, 1855-1884",David Paul Thelen,en,['History'],3,0,Unknown,1966,147
+250,Data Science on the Google Cloud Platform,Valliappa Lakshmanan,en,['Computers'],3,0,"""O'Reilly Media, Inc.""",2017,404
+251,The Oxford Handbook of Research Strategies for Clinical Psychology,Unknown,en,['Psychology'],3,0,Oxford University Press,2013,476
+252,Data Science and Knowledge Engineering for Sensing Decision Support,Jie Lu Yang Xu Luis Martinez,en,['Computers'],3,0,World Scientific,2018,1624
+254,Business data processing,Elias M. Awad,en,['Computers'],3,0,Prentice Hall,1974,722
+255,"Reverse Acronyms, Initialisms & Abbreviations Dictionary",Unknown,en,['Abbreviations'],3,0,Unknown,2008,430.883263
+256,Cryptographic Hardware and Embedded Systems – CHES 2008,Elisabeth Oswald,en,['Computers'],3,0,Springer Science & Business Media,2008,442
+257,The Biblical Basis for Modern Science,Dr. Henry M. Morris,en,['Religion'],5,0,New Leaf Publishing Group,2002,478
+258,"Hearings, reports and prints of the House Committee on Science and Astronautics",Unknown,en,None,3,0,Unknown,1967,430.883263
+259,Carpentry and joinery,Pearson Education,en,['Carpentry'],3,0,Heinemann,2006,424
+260,"Retail Crime, Security, and Loss Prevention",Unknown,en,['Social Science'],3,0,Elsevier,2011,704
+261,Symposium on Electronics Maintenance,Unknown,en,['Electronic apparatus and appliances'],3,0,Unknown,1955,214
+263,Selected Areas in Cryptography -- SAC 2013,Kristin Lauter,en,['Computers'],3,0,Springer,2014,590
+264,Modern Concepts of Security,James Ohwofasa Akpeninor,en,['Philosophy'],3,0,AuthorHouse,2012,344
+265,English Mechanic and World of Science,Unknown,en,['Mechanics'],3,0,Unknown,1898,430.883263
+266,Research Bulletin,Unknown,en,None,3,0,Unknown,1951,430.883263
+267,Mechanics Magazine,John I Knight,en,None,3,0,Unknown,1868,430.883263
+268,Building Security Standards,"[\Donald R. Hughes\ \Gary R. Cooper\ ""California. Attorney General\s Building Security Commission""]",en,['Burglary protection'],3,0,Unknown,1974,57
+269,"Fifty Years' Observations of Men and Events, Civil and Military",Erasmus Darwin Keyes,en,"['Fair Oaks (Henrico County, Va.), Battle of, 1862']",3,0,Unknown,1884,515
+270,"Emanuel Law Outlines for Civil Procedure, Keyed to Yeazell",John T. Cross,en,['Law'],3,0,Wolters Kluwer Law & Business,2016,400
+271,Civil Procedure,Unknown,en,['Law'],3,0,Aspen Publishers Online,2010,228
+272,"Casenote Legal Briefs for Civil Procedure, Keyed to Friedenthal, Miller, Sexton, and Hershkoff",Casenote Legal Briefs,en,['Law'],3,0,Aspen Publishers,2018,240
+273,"Casenote Legal Briefs for Civil Procedure Keyed to Hazard, Tait, Fletcher and Bundy",Casenote Legal Briefs,en,['Law'],3,0,Wolters Kluwer Law & Business,2010,144
+274,"Casenote Legal Briefs for Civil Procedure Keyed to Subrin, Minow, Brodin, Main, and Lahav",Casenote Legal Briefs,en,['Law'],3,0,Wolters Kluwer Law & Business,2016,170
+275,"Casenote Legal Briefs for Civil Procedure, Keyed to Yeazell and Schwartz",Casenote Legal Briefs,en,['Law'],3,0,Aspen Publishers,2019,168
+276,"Proceedings of the Second International Conference on Computing in Civil Engineering, 5-9 June 1985, Hangzhou, China",Zhao,en,['Technology & Engineering'],3,0,Elsevier Science Limited,1985,1237
+277,A Bibliography of Florida: 1881-1899,Unknown,en,"['Catalogs, Union']",3,0,Unknown,1993,559
+278,"Engineering Mechanics Devoted to Mechanical Civil, Mining and Electrical Engineering",Unknown,en,None,3,0,Unknown,1890,430.883263
+279,Library of Congress Subject Headings,Unknown,en,"['Subject headings, Library of Congress']",3,0,Unknown,2011,430.883263
+281,Rap Music and Street Consciousness,Cheryl Lynette Keyes,en,['Music'],5,0,University of Illinois Press,2004,302
+283,That's the Joint!,Unknown,en,['Music'],4,0,Psychology Press,2004,628
+284,Columbian Cyclopedia,Unknown,en,['Encyclopedias and dictionaries'],3,0,Unknown,1897,430.883263
+285,Alden's Manifold Cyclopedia of Knowledge and Language,Unknown,en,['Encyclopedias and dictionaries'],3,0,Unknown,1890,430.883263
+286,Ethnomusicology at UCLA.,Unknown,en,['Ethnomusicologists'],3,0,Unknown,1997,430.883263
+287,Catalog of Copyright Entries,Unknown,en,['American drama'],3,0,Unknown,1973,430.883263
+289,Tales From Boilermaker Country: A Collection of the Greatest Stories Ever Told,Doug Griffiths,en,['Music'],3,0,Simon and Schuster,2012,999
+290,War Football,Chris Serb,en,['Sports & Recreation'],3,0,Rowman & Littlefield,2019,296
+291,African Americans in Sports,David K. Wiggins,en,['History'],3,0,Routledge,2015,488
+292,Black Champions of the Gridiron,Andrew Sturgeon Young,en,['Football'],3,0,Unknown,1969,120
+293,Football's Most Wanted,Floyd Conner,en,['Sports & Recreation'],3,0,"Potomac Books, Inc.",2011,300
+294,The USA TODAY College Football Encyclopedia 2008-2009,Unknown,en,['Biography & Autobiography'],3,0,Skyhorse Publishing Inc.,2008,1335
+295,ESPN college football encyclopedia,Unknown,en,['Reference'],5,0,ESPN Books,2005,1629
+296,The Howitzer,Unknown,en,None,3,0,Unknown,1913,430.883263
+298,American Book Publishing Record,Unknown,en,['American literature'],3,0,Unknown,1970,430.883263
+301,School Activities,Unknown,en,None,3,0,Unknown,1960,430.883263
+302,"Casenote Legal Briefs for Torts, Keyed to Goldberg Sebok and Ziprusky",Casenote Legal Briefs,en,['Law'],3,0,Wolters Kluwer Law & Business,2016,189
+303,School Activities and the Library,Unknown,en,['School libraries'],3,0,Unknown,1960,430.883263
+304,"Casenote Legal Briefs for Contracts, Keyed to Calamari, Periilo, Bender, and Brown",Casenote Legal Briefs,en,['Law'],3,0,Wolters Kluwer Law & Business,2011,144
+305,Contracts,Aspen Publishers,en,['Law'],3,0,Aspen Publishers Online,2007,275
+306,Higher Education Exchange 78/79,Janet A. Mitchell,en,['Universities and colleges'],3,0,Unknown,1978,766
+307,A Multiple-continuous Offense for High School Basketball,Unknown,en,['Basketball'],3,0,Unknown,1968,205
+308,The Coaching Clinic,Unknown,en,['Coaching (Athletics)'],3,0,Unknown,1970,430.883263
+309,Cumulative List of Organizations Described in Section 170 (c) of the Internal Revenue Code of 1986,Unknown,en,"['Charitable uses, trusts, and foundations']",3,0,Unknown,2003,430.883263
+310,Cumulative List of Organizations Described in Section 170 (c) of the Internal Revenue Code of 1954,Unknown,en,"['Charitable uses, trusts, and foundations']",3,0,Unknown,2003,430.883263
+311,Our Ewing family,Laura Dingle Ewing,en,None,3,0,Unknown,1978,503
+312,Century of American Savings Banks,James Hilton Manning,en,['Savings banks'],3,0,Unknown,1917,430.883263
+313,Best books on the stock market,Sheldon Zerden,en,['Business & Economics'],3,0,R. R. Bowker,1972,168
+314,Cracks in My Foundation,Marian Keyes,en,['Fiction'],3,0,Harper Collins,2009,368
+315,"Guide to U.S. Foundations, Their Trustees, Officers, and Donors",Unknown,en,"['Charitable uses, trusts, and foundations']",5,0,Unknown,2006,430.883263
+316,Corporate Giving Directory,Verne Thompson,en,['Business & Economics'],3,0,Information Today Incorporated,2006,1500
+317,The Foundation Directory,Unknown,en,['Endowments'],3,0,Unknown,1960,430.883263
+318,Key and allied families,Janie Warren Hollingsworth Lane,en,None,3,0,Unknown,1931,495
+319,Text Processing in Python,David Mertz,en,['Computers'],4.5,0,Addison-Wesley Professional,2003,520
+320,Python in a Nutshell,Alex Martelli,en,['Computers'],3.5,0,"""O'Reilly Media, Inc.""",2006,738
+321,Programming Python,Mark Lutz,en,['Computers'],2,0,"""O'Reilly Media, Inc.""",2010,1632
+322,Mastering Python for Networking and Security,José Manuel Ortega,en,['Computers'],3,0,Packt Publishing Ltd,2018,426
+323,SAS Viya,Unknown,en,['Computers'],3,0,SAS Institute,2018,306
+324,Python Essential Reference,David Beazley,en,['Computers'],4,0,Addison-Wesley Professional,2009,744
+325,Python Programming for Arduino,Pratik Desai,en,['Computers'],3,0,Packt Publishing Ltd,2015,400
+326,Effective Python,Brett Slatkin,en,['Computers'],3,0,Addison-Wesley Professional,2015,256
+327,Programming with Python,Tim Altom,en,['Computers'],3,0,Premier Press,1999,372
+328,"Game Programming with Python, Lua, and Ruby",Tom Gutschmidt,en,['Computers'],3,0,Course Technology,2003,437
+329,Python Web Scraping Cookbook,Michael Heydt,en,['Computers'],3,0,Packt Publishing Ltd,2018,364
+330,Topics in Cryptology – CT-RSA 2018,Nigel P. Smart,en,['Computers'],3,0,Springer,2018,514
+331,Python All-in-One For Dummies,Unknown,en,['Computers'],3,0,John Wiley & Sons,2019,704
+332,"Understanding the Interactive Digital Media Marketplace: Frameworks, Platforms, Communities and Issues",Sharma Ravi S.,en,['Computers'],3,0,IGI Global,2011,427
+334,the scientific review and scientific and literary review,Unknown,en,None,3,0,Unknown,1881,430.883263
+335,Engineering and Mining Journal,Unknown,en,['Engineering'],3,0,Unknown,1892,430.883263
+336,يوميات آن فرانك,Unknown,en,None,3,0,Unknown,2009,430.883263
+337,Paper Trade Journal,Unknown,en,['Paper industry'],3,0,Unknown,1951,430.883263
+338,American Machinist,Unknown,en,['Machinery'],3,0,Unknown,1890,430.883263
+340,Computer Programming And Operating Guide,Shashank Johri,en,None,3,0,Diamond Pocket Books (P) Ltd.,2000,160
+341,Programming Amazon Web Services,James Murty,en,['Computers'],3.5,0,"""O'Reilly Media, Inc.""",2008,604
+342,Structured Programming with COBOL Examples,Earl H. Parsons,en,['Computers'],3,0,iUniverse,2002,196
+343,Planning a library building: the major steps,American Library Association. Buildings Committee,en,['Architecture'],3,0,Unknown,1955,80
+344,Concurrent Programming on Windows,Joe Duffy,en,['Computers'],3,0,Pearson Education,2008,1008
+345,Modula-2 Programming,B. J. Holmes,en,['Computers'],3,0,Cengage Learning EMEA,1994,456
+346,Dictionary of Acronyms and Technical Abbreviations,J. Vlietstra,en,['Computers'],3,0,Springer Science & Business Media,2001,696
+347,MOS databook,National Semiconductor Corporation,en,['Technology & Engineering'],3,0,Unknown,1980,883
+348,Michigan Education Directory and Buyer's Guide,Henry Romaine Pattengill,en,['Education'],3,0,Unknown,1970,430.883263
+349,"Solar Heating and Cooling Demonstration Act of 1974, Oversight Hearings",Fusion Advisory Panel (U.S.),en,['Solar air conditioning'],3,0,Unknown,1975,979
+351,New Scientist,Unknown,en,None,3,0,Unknown,1976,56
+352,Solar Home Heating and Cooling Demonstration Act,United States. Congress. Senate. Committee on Banking Housing and Urban Affairs. Subcommittee on Housing and Urban Affairs,en,['Energy conservation'],3,0,Unknown,1974,124
+353,Consumer Handbook of Solar Energy for the United States and Canada,John H. Keyes,en,['Solar energy'],3,0,"Dobbs Ferry, N.Y. : Morgan & Morgan",1979,273
+354,Disposal of brine by solar evaporation,United States. Office of Saline Water,en,['Technology & Engineering'],3,0,Unknown,1970,152
+356,Solar Energy in Developing Countries,A. Eggers-Lura,en,['Developing countries'],3,0,Pergamon,1979,205
+357,Alternative Sources of Energy,Unknown,en,['Power (Mechanics)'],3,0,Unknown,1978,430.883263
+358,Architecture Series: Bibliography,Unknown,en,['Architecture'],3,0,Unknown,1981,430.883263
+359,Bulletin,Unknown,en,['Geology'],3,0,Unknown,1913,430.883263
+360,The Nature of Symbiotic Stars,Unknown,en,['Science'],3,0,Springer Science & Business Media,2012,329
+361,Mineral Resources of Southwestern Oregon,Joseph Silas Diller,en,['Geology'],3,0,Unknown,1913,147
+362,Geological Survey Bulletin,Unknown,en,['Geology'],3,0,Unknown,1949,430.883263
+363,A Life of Barbara Stanwyck,Victoria Wilson,en,['Biography & Autobiography'],2.5,0,Simon and Schuster,2013,1056
+364,From the Dreadnought to Scapa Flow,Arthur J Marder,en,['History'],3,0,Seaforth Publishing,2014,425
+366,Leonard Maltin's movie encyclopedia,Spencer Green,en,['Biography & Autobiography'],3,0,E P Dutton,1994,976
+367,From the Dreadnought to Scapa Flow: Victory and aftermath,Arthur Jacob Marder,en,['Great Britain'],3,0,Unknown,1970,416
+369,Princeton Alumni Weekly,Unknown,en,None,3,0,princeton alumni weekly,1918,430.883263
+372,Indian Gaming Regulatory Act,United States. Congress. Senate. Committee on Indian Affairs (1993- ),en,['Gambling on Indian reservations'],3,0,Unknown,2003,430.883263
+373,The Eisenhowers,Steve Neal,en,['Biography & Autobiography'],3,0,Unknown,1984,508
+374,Code of Federal Regulations,Unknown,en,['Administrative law'],3,0,Unknown,2006,430.883263
+375,List of C.F.R. Sections Affected,Unknown,en,['Administrative law'],3,0,Unknown,2000,430.883263
+376,American Lawn Tennis,Unknown,en,['Tennis'],3,0,Unknown,1898,430.883263
+379,Sammy Keyes and the Sisters of Mercy,Wendelin Van Draanen,en,['Juvenile Fiction'],4,0,Yearling,2008,240
+381,Sammy Keyes and the Wedding Crasher,Wendelin Van Draanen,en,['Juvenile Fiction'],4,0,Knopf Books for Young Readers,2010,304
+382,Soil Conservation,Unknown,en,['Soil conservation'],3,0,Unknown,1979,430.883263
+383,The Phone Book,Unknown,en,['Johannesburg (South Africa)'],3,0,Unknown,2001,430.883263
+384,National Petroleum News,Unknown,en,['Petroleum'],3,0,Unknown,1979,430.883263
+385,The Keyes of the Kingdom of Heaven,John Cotton,en,['Congregational churches'],3,0,Unknown,1843,108
+386,Marconi's International Register,Unknown,en,"['Cables, Submarine']",3,0,Unknown,1998,430.883263
+387,NPN Fact Book,Unknown,en,['Petroleum industry and trade'],3,0,Unknown,1979,430.883263
+388,Who's who Among Students in American Universities and Colleges,Henry Pettus Randall,en,['Students'],3,0,Unknown,1995,430.883263
+389,Smart Phone and Next Generation Mobile Computing,Unknown,en,['Computers'],3,0,Elsevier,2010,350
+390,Smartphones,Unknown,en,['Technology & Engineering'],3,0,Intl. Engineering Consortiu,2006,249
+391,Casenote Legal Briefs for Criminal Procedure Keyed to Dressler and Thomas,Casenote Legal Briefs,en,['Law'],3,0,Wolters Kluwer Law & Business,2017,228
+392,"The Complete Book of Locks and Locksmithing, Seventh Edition",Bill Phillips,en,['Technology & Engineering'],5,0,McGraw Hill Professional,2016,430.883263
+393,"Casenote Legal Briefs for Contracts, Keyed to Knapp, Crystal, and Prince",Casenote Legal Briefs,en,['Law'],3,0,Wolters Kluwer Law & Business,2019,204
+394,Asia Electronics Industry,Unknown,en,['Computer industry'],3,0,Unknown,2003,430.883263
+399,Politics in Pacific Asia,Unknown,en,['Political Science'],3,0,Palgrave,2016,328
+400,"Music, Education, and Religion",Philip Alperson,en,['Music'],3,0,Indiana University Press,2019,344
+401,Religious Commodifications in Asia,Pattana Kitiarsa,en,['Religion'],3,0,Routledge,2007,288
+402,The Riddle of Barack Obama,Avner Falk,en,['Biography & Autobiography'],1,0,ABC-CLIO,2010,335
+403,Asian Visions of Authority,Joint Committee on Southeast Asia,en,['Religion'],5,0,University of Hawaii Press,1994,366
+404,Arguing About Religion,Kevin Timpe,en,['Religion'],3,0,Unknown,2009,633
+405,Readings in philosophy of religion,Andrew Eshleman,en,['Philosophy'],3,0,Wiley-Blackwell,2008,512
+406,United States Political Science Documents,Unknown,en,['Political science'],3,0,Unknown,1981,430.883263
+407,"Religion, Ethnicity and Modernity in Southeast Asia",Myung-Seok Oh,en,"['Asia, Southeastern']",3,0,Unknown,1998,257
+408,Directory of departments and programs of religious studies in North America,Unknown,en,['Religion'],3,0,Unknown,2002,489
+409,Blasphemy,Alan Dershowitz,en,['Political Science'],3,0,John Wiley & Sons,2007,195
+410,Whose God Rules?,Unknown,en,['Social Science'],3,0,Springer,2011,263
+411,"Atheism and Arithmetic, Or, Mathematical Law in Nature",Horace Lorenzo Hastings,en,['God'],3,0,Unknown,1885,63
+412,Atheism And The Case Against Christ,Matthew S. Mccormick,en,['Religion'],3,0,Prometheus Books,2012,332
+413,America Declares Independence,Alan Dershowitz,en,['History'],5,0,John Wiley & Sons Incorporated,2003,196
+414,Gods Arrow Against Atheists,Henry Smith,en,['Christianity and atheism'],3,0,Unknown,1617,96
+415,Gods Arrow Againste Atheists,Henry Smith,en,['Apologetics'],3,0,Unknown,1607,100
+416,The Indian Libertarian,Unknown,en,['Economic history'],3,0,Unknown,1972,430.883263
+418,"101 Proofs that the Bible is True, an Answer to Atheism",Charles Orville Benham,en,['Bible'],3,0,Unknown,1944,143
+419,Bulletin of the United States Geological Survey,Unknown,en,['Geology'],3,0,Unknown,1898,430.883263
+421,Annual Report of the Commissioner of Patents,United States. Patent Office,en,None,3,0,Unknown,1872,430.883263
+423,The Bloody Man,Bevan Amberhill,en,['Fiction'],3,0,"Stratford, Ont. : Mercury Press",1993,216
+424,Self-instruction in Practical Business Qualifications,Charles Stewart Macnair,en,None,3,0,Unknown,1890,244
+425,1000 Helpful Hints & Valuable Suggestions for Book-keepers and Business Men,Book-keeper publishing co. Detroit,en,['Bookkeeping'],3,0,Unknown,1895,104
+426,The Railway Agent and Station Agent,Unknown,en,None,3,0,Unknown,1891,430.883263
+427,Devonshire Scream,Laura Childs,en,['Fiction'],4,0,Penguin,2016,320
+428,Gaywyck,Vincent Virga,en,['Fiction'],3.5,0,Alyson Publications,1980,385
+429,Decisions and Orders of the National Labor Relations Board,United States. National Labor Relations Board,en,['Labor laws and legislation'],3,0,Unknown,1993,430.883263
+430,Food Shortages: Sugar,United States. Congress. House. Special Committee to Investigate Food Shortages,en,['Meat industry and trade'],3,0,Unknown,1945,430.883263
+431,Biennial Report of the Dairy and Food Commissioner of Wisconsin for the Years ...,Wisconsin Dairy and Food Commission,en,None,3,0,Unknown,1893,430.883263
+432,Food Shortages,United States. Congress. House. Special Committee to Investigate Food Shortages,en,['Meat industry and trade'],3,0,Unknown,1945,430.883263
+433,Annual Report of the Dairy and Food Commissioner of Wisconsin,Wisconsin Dairy and Food Commission,en,['Dairy products'],3,0,Unknown,1890,430.883263
+434,Biennial Report of the Dairy and Food Commissioner of Wisconsin,Wisconsin. Dairy and Food Commission,en,None,3,0,Unknown,1893,430.883263
+435,"Food in the Movies, 2d ed.",Steve Zimmerman,en,['Performing Arts'],3,0,McFarland,2010,483
+436,Chilton's Food Engineering,Unknown,en,['Food industry and trade'],3,0,Unknown,1984,430.883263
+437,Sammy Keyes and the Hotel Thief,Wendelin Van Draanen,en,['Juvenile Fiction'],3.5,0,Yearling,2003,192
+438,Child Psychopathology,Jeffrey Haugaard,en,['Psychology'],3,0,McGraw-Hill Humanities/Social Sciences/Languages,2007,792
+439,Directory of Historic House Museums in the United States,Unknown,en,['History'],3,0,Rowman & Littlefield,2000,488
+440,American Furniture in the Metropolitan Museum of Art,Unknown,en,['Furniture'],3,0,Metropolitan Museum of Art,2007,451
+441,Catalog of Copyright Entries. Third Series,Library of Congress. Copyright Office,en,['Copyright'],3,0,"Copyright Office, Library of Congress",1961,2054
+442,American Furniture,Unknown,en,['Furniture'],3,0,Unknown,2002,430.883263
+443,American furniture 1997,Luke Beckerdite,en,['Antiques & Collectibles'],3,0,Unknown,1997,407
+444,Register of Retirement Benefit Plans Reported Under the Welfare and Pension Plans Disclosure Act,Unknown,en,['Old age pensions'],3,0,Unknown,2000,430.883263
+445,The Jamestown Furniture Industry,Clarence Carlson,en,['History'],3,0,Arcadia Publishing,2014,192
+446,National Hardwood Magazine,Unknown,en,['Hardwoods'],3,0,Unknown,1985,430.883263
+447,MacRae's Blue Book,Unknown,en,['Manufacturing industries'],3,0,Unknown,1997,430.883263
+448,New Orleans. Ediz. inglese,Rosanna Cirigliano,en,['Travel'],3,0,Bonechi,1989,60
+449,Advances in Information Security and Assurance,Hsiao-Hwa Chen Mohammed Atiquzzaman Changhoon Lee,en,['Computers'],3,0,Springer,2009,841
+450,The Complete Guide to Physical Security,Unknown,en,['Business & Economics'],5,0,CRC Press,2016,360
+452,The Official (ISC)2 Guide to the SSCP CBK,Unknown,en,['Computers'],3,0,John Wiley & Sons,2016,928
+453,NET Security and Cryptography,Unknown,en,['Computers'],2,0,Prentice Hall Professional,2004,466
+454,Maximum Windows 2000 Security,Mark Burnett Chris Amaris Chris Doyle L. J. Locher,en,['Computers'],3,0,Sams Publishing,2002,596
+455,Information Security and Cryptology - ICISC 2011,Howon Kim,en,['Computers'],3,0,Springer,2012,512
+456,Engineering Information Security,Stuart Jacobs,en,['Technology & Engineering'],3,0,John Wiley & Sons,2011,728
+457,"The Complete Book of Home, Site and Office Security",Bill Phillips,en,['Architecture'],4,0,McGraw Hill Professional,2006,309
+458,High-Rise Security and Fire Life Safety,Geoff Craighead,en,['Business & Economics'],3,0,Elsevier,2003,548
+459,Analyzing the Hospital Life Safety Survey,Brad Keyes,en,['Medical'],3,0,"HC Pro, Inc.",2011,201
+460,Halo: The Cole Protocol,Unknown,en,['Fiction'],4.5,0,Pan Macmillan,2011,352
+461,Role Development in Professional Nursing Practice,Kathleen Masters,en,['Medical'],3,0,Jones & Bartlett Publishers,2015,450
+462,A Question of Identity,Susan Hill,en,['Fiction'],3,0,Random House,2012,368
+463,"The Chapter Leader's Guide to Life Safety, Third Edition",Brad Keyes,en,None,3,0,Unknown,2017,150
+464,Cumulated Index Medicus,Unknown,en,['Medicine'],3,0,Unknown,1972,430.883263
+465,"Business Law, Principles and Practices",Unknown,en,['Business law'],3,0,Houghton Mifflin School,1982,598
+466,Technical Digest,Unknown,en,['Industrial engineering'],3,0,Unknown,1983,430.883263
+467,Chameleon Christianity,Dick Keyes,en,['Religion'],3,0,Destinee S.A.,2014,98
+469,Stolen Away,Michael Newton,en,['True Crime'],3,0,Simon and Schuster,2000,402
+470,"Billy Wilder, Movie-Maker",Karen McNally,en,['Performing Arts'],3,0,McFarland,2014,254
+471,The Astrology of Film,Unknown,en,['Biography & Autobiography'],3,0,iUniverse,2004,218
+472,"Soulsville, U.S.A.: The Story of Stax Records",Rob Bowman,en,['Music'],3,0,Omnibus Press,2011,416
+473,Three Classic Thrillers 3-Book Bundle,John Grisham,en,['Fiction'],5,0,Dell,2011,1744
+474,West's Southern Reporter,Unknown,en,"['Law reports, digests, etc']",3,0,Unknown,1999,430.883263
+477,"Fisher, Churchill and the Dardanelles",Geoffrey Penn,en,['Biography & Autobiography'],3,0,Leo Cooper Books,1999,280
+478,"Self-government, the American Theme",Will Morrisey,en,['History'],3,0,Unknown,2004,279
+479,Literary Readings of Billy Wilder,Georges-Claude Guilbert,en,['Performing Arts'],3,0,Cambridge Scholars Publishing,2009,215
+480,Love Inspired Suspense December 2014 - Box Set 1 of 2,Sharon Dunn,en,['Fiction'],3,0,Harlequin,2014,224
+481,L.A. Rex,Will Beall,en,['Fiction'],3,0,Penguin,2007,400
+482,Cold Case Justice,Sharon Dunn,en,['Fiction'],3,0,Harlequin,2014,224
+485,Catwoman (2011-) #27,Ann Nocenti,en,['Comics & Graphic Novels'],3,0,DC,2000,430.883263
+486,Sammy Keyes and the Night of Skulls,Wendelin Van Draanen,en,['Juvenile Fiction'],3,0,Knopf Books for Young Readers,2011,320
+488,Southern California Quarterly,Unknown,en,"['California, Southern']",3,0,Unknown,2004,430.883263
+489,Mastering Windows XP Home Edition,Hart-Davis,en,['Computers'],3,0,John Wiley & Sons,2006,1009
+490,Special Edition Using Filemaker 8,Scott Love,en,['Computers'],4,0,Que Publishing,2006,890
+491,Rehab Brief,Unknown,en,['Rehabilitation'],3,0,Unknown,1982,430.883263
+492,Knowledge-Based Intelligent Information and Engineering Systems,Bruno Apolloni,en,['Computers'],3,0,Springer,2007,882
+493,Alan Simpson's Windows Vista Bible,Unknown,en,['Computers'],3,0,John Wiley & Sons,2007,860
+494,How to Do Everything with Windows Vista,Curt Simmons,en,['Computers'],3,0,McGraw Hill Professional,2007,384
+495,"MICROPROCESSORS, PC HARDWARE AND INTERFACING",N. MATHIVANAN,en,['Computers'],4,0,PHI Learning Pvt. Ltd.,2003,340
+496,"Activity Catalog Tool (ACT) User Manual, Version 2.0",Unknown,en,None,3,0,Unknown,1994,25
+497,Advances in Information Technology Research and Application: 2013 Edition,Unknown,en,['Computers'],3,0,ScholarlyEditions,2013,1052
+498,Asset Protection through Security Awareness,Tyler Justin Speed,en,['Business & Economics'],3,0,CRC Press,2016,337
+499,الإسلام الديمقراطي المدني,شيريل بينارد,ar,None,3,0,تنوير للنشر والإعلام,2013,134
+502,Senouhi Cumulative Book Index for Egyptian Region UAR,Unknown,en,None,3,0,Unknown,1956,430.883263
+503,رؤيتي,Unknown,ar,['Dubayy (United Arab Emirates : Emirate)'],5,0,Unknown,2006,223
+504,Iraqi Constitutional Studies,DePaul University. International Human Rights Law Institute,en,['Civil rights'],3,0,Unknown,2005,524
+505,الحب والجمال عند العرب,أحمد تيمور باشا,ar,['Literary Criticism'],3,0,Al Manhal,2015,203
+506,اللؤلؤة,جون شتاينبك,ar,['Fiction'],3,0,ktab INC.,2018,104
+507,Mudhakarat talib,Jeff Kinney,en,['Diaries'],5,0,Unknown,2011,224
+508,الطائفة، الطائفية، الطوائف المتخيلة,عزمي بشارة,ar,['Religion'],3,0,المركز العربي للأبحاث ودراسة السياسات,2018,927
+509,وحوش من الماضي,ميشيل حنا,ar,None,3,0,Oxygen Books,2012,174
+512,رسائل فلسفية,فولتير,ar,['Philosophy'],3,0,ktab INC.,2000,194
+513,موسوعة تاريخ الأديان,فراس السواح,ar,['Religion'],3,0,Al Manhal,2017,330
+514,مصادر تطوير تعليم الرياضيات,ميرفت محمود محمد,ar,['Education'],3,0,Al Manhal,2015,231
+515,أضواء على الطرق الصوفية في القارة الأفريقية,Unknown,ar,['Africa'],3,0,Unknown,1990,180
+516,Khor Rori (Sumhuram),Unknown,en,None,3,0,Unknown,2009,66
+517,قضية الشعر الجاهلى فى كتاب ابن سلام,Maḥmūd Muḥammad Shākir,ar,['Literary Criticism'],3,0,Unknown,1997,131
+518,الجمع والتصنيف لمقاصد الشرع الحنيف,Unknown,ar,['Maqāṣid (Islamic law)'],3,0,Unknown,2016,276
+519,عصر القرود,مصطفى محمود,ar,['Religion'],3,0,ktab INC.,2000,90
+521,رواية : البحث عن الجذور,مؤمنة أبو صالح,ar,['Fiction'],3,0,العبيكان للنشر,2006,126
+522,سيره امين المؤمنين عمر بن الخطاب شخصيته وعصره,صلابي، علي محمد محمد،,ar,['Caliphs'],3,0,Unknown,2005,583
+523,من جماليات التصوير في القرآن الكريم,محمد قطب عبد العال,ar,['RELIGION'],3,0,وكالة الصحافة العربية,2018,135
+526,الاستبداد من الخلافة للرئاسة,عبد العزيز، محسن,ar,['History'],3,0,Unknown,2007,286
+527,"Finance and Development, December 2013",International Monetary Fund. External Relations Dept.,en,['Business & Economics'],3,0,International Monetary Fund,2014,60
+528,الله والإنسان في القرآن: علم دلالة الرؤية القرآنية للعالم,Unknown,ar,['God (Islam)'],3,0,Unknown,2007,406
+529,The Minds of Billy Milligan,Daniel Keyes,en,['Psychology'],5,0,Bantam,1995,426
+530,أساسيات تصميم المنطق والحاسب,Unknown,ar,None,3,0,KSUP,2000,430.883263
+532,The Red Badge of Courage (Arabic Edition),Stephen Crane,en,None,3,0,Createspace Independent Publishing Platform,2016,134
+533,Stand By Me,Unknown,en,['Fiction'],4.5,0,Hachette UK,2010,496
+534,خمسة عقول لأجل المستقبل,Howard Gardner,ar,['Philosophy'],3,0,العبيكان للنشر,2008,257
+535,نقطة التحول,مالكولم غلادويل,ar,None,3,0,Unknown,2006,240
+536,You Can Heal Your Life,Louise L. Hay,en,['Health & Fitness'],4.5,0,ReadHowYouWant.com,2009,346
+537,The E-Myth Revisited (Limadha tafshal mu’dham al-sharikat al-saghira?),Michael E. Gerber,en,['Business & Economics'],3,0,Bloomsbury Qatar Foundation Publishing,2016,268
+538,ʻĀʼid ilá Ḥayfā,Ghassān Kanafānī,en,None,3,0,Unknown,2004,76
+539,قواعد اللغة الإنكليزية,محمد أحمد,ar,['Foreign Language Study'],3,0,Al Manhal,2011,400
+540,‏لغة العربية للشئون التجارية : المرحلة المتقدمة,Raji M. Rammuny,ar,['Business & Economics'],3,0,University of Michigan Press,2000,392
+544,دائرة المعارف,Fuʼād Afrām Bustānī,ar,"['Encyclopedias and dictionaries, Arabic']",3,0,Unknown,1977,430.883263
+545,al-Thaqāfah,Unknown,ar,['Arabic literature'],3,0,Unknown,1981,430.883263
+549,Happiness Key,Emilie Richards,en,['Fiction'],4,0,MIRA,2010,400
+550,Three Prescriptions for Happiness,Ken Keyes Jr.,en,['Self-Help'],5,0,Axios Press,2010,126
+551,Handbook of Research Methods and Applications in Happiness and Quality of Life,Unknown,en,['Business & Economics'],3,0,Edward Elgar Publishing,2016,552
+552,Hypnofacts 7,Trevor Eddolls,en,None,3,0,Lulu.com,2000,430.883263
+553,Discovering the Secrets of Happiness,Ken Keyes,en,['Psychology'],3,0,Unknown,1989,231
+554,The Routledge Handbook of Positive Communication,Unknown,en,['Language Arts & Disciplines'],3,0,Routledge,2018,410
+555,"How to make your life work, or, Why aren't you happy?",Unknown,en,['Self-Help'],3,0,Unknown,1980,190
+556,Presidential Follies,Unknown,en,['Presidential candidates'],3,0,Boru Books,1995,249
+557,Person to Person,Sharon L. Hanna,en,['Psychology'],3,0,Unknown,2002,452
+558,Small Press Record of Books in Print,Len Fulton,en,['Books'],3,0,Unknown,1994,430.883263
+559,The Internal Revenue Record and Customs Journal,Unknown,en,['Customs administration'],3,0,Unknown,1884,430.883263
+560,"The Tryals of Robert Charnock, Edward King, and Thomas Keyes, Etc",Unknown,en,None,3,0,Unknown,1696,430.883263
+561,"The Tryals and Condemnation of Robert Charnock, Edward King, and Thomas Keyes, for the Horrid and Execrable Conspiracy to Assassinate His Sacred Majesty, King William, in Order to a French Invasion of this Kingdom ... Together with a True Copy of the Papers Delivered Them to the Sheriffs of London and Middlesex at the Time of Their Execution",Unknown,en,None,3,0,Unknown,1696,76
+562,"Hearing on H.R. 1231, the Davis-Bacon Reform Bill of 1993",Unknown,en,['Digital images'],3,0,Unknown,1993,143
+563,Naval War College Review,Naval War College (U.S.),en,['International relations'],3,0,Unknown,1982,430.883263
+565,International Record of Medicine and General Practice Clinics,Frank Pierce Foster James Bradbridge Hunter Charles Eucharist de Medicis Sajous Gregory Stragnell Henry J. Klaunberg,en,['Medicine'],3,0,Unknown,1888,430.883263
+566,The Mechanical Engineer's Pocket-book,William Kent,en,['Engineering'],3,0,Unknown,1895,1100
+567,Carroll's State Directory,Unknown,en,['Government executives'],3,0,Unknown,2006,430.883263
+568,Milton and This Pendant World,George W. Whiting,en,['Literary Criticism'],3,0,University of Texas Press,2014,282
+569,General McClellan's Peninsula Campaign,Hiram Ketchum,en,['Campaign literature'],3,0,Unknown,1864,72
+570,Journal,Military Service Institution of the United States,en,None,3,0,Unknown,1884,430.883263
+571,Journal of the Military Service Institution of the United States,Military Service Institution of the United States,en,['Military art and science'],3,0,Unknown,1884,430.883263
+572,The Story of One Regiment in the War of the Rebellion,Maine volunteer infantry. 11th regiment,en,None,3,0,Unknown,1896,430.883263
+573,The War of the Rebellion,United States. War Department,en,['Confederate States of America'],3,0,Unknown,1884,430.883263
+575,"Fifty Years' Observation of Men and Events, Civil and Military",Erasmus Darwin Keyes,en,"['Pacific Coast Indians, Wars with, 1847-1865']",3,0,Unknown,1884,515
+576,Report of Major-General B. McClellan,George Brinton McClellan,en,"['Maryland Campaign, 1862']",3,0,Unknown,1864,147
+577,Reports of Committees,Unknown,en,['United States'],3,0,Unknown,1863,430.883263
+578,All for the Union,Elisha Hunt Rhodes,en,['History'],4.5,0,Vintage,2010,272
+579,The Keyed Bugle,Ralph Thomas Dudgeon,en,['Music'],3,0,Scarecrow Press,2004,370
+580,Network-Aware Security for Group Communications,Wade Trappe,en,['Technology & Engineering'],3,0,Springer Science & Business Media,2007,304
+581,Bluescreen Compositing,John Jackman,en,['Performing Arts'],3,0,Taylor & Francis,2007,248
+582,"Advances in Computing and Communications, Part IV",Jaime Lloret Mauri John Buford Junichi Suzuki,en,['Computers'],3,0,Springer,2011,624
+583,Basic Blueprint Reading and Sketching,Unknown,en,['Technology & Engineering'],3,0,Cengage Learning,2004,256
+584,Basic TV Technology,Robert L Hartwig,en,['Performing Arts'],3,0,CRC Press,2012,208
+585,Basic Radio,Unknown,en,['Electricity'],3,0,Unknown,1961,430.883263
+586,InfoWorld,Unknown,en,None,3,0,Unknown,1981,36
+587,The Gamification of Work,Emmanuelle Savignac,en,['Business & Economics'],3,0,John Wiley & Sons,2017,198
+588,NS Basic Programming for Palm OS,Michael J. Verive,en,['BASIC (Computer program language)'],3,0,Unknown,2002,317
+589,"Commerce, Justice, Science, and Related Agencies Appropriations for 2014",United States. Congress. House. Committee on Appropriations. Subcommittee on Commerce Justice Science and Related Agencies,en,['Administrative agencies'],3,0,Unknown,2013,430.883263
+590,The Iron Age,Unknown,en,['Hardware'],3,0,Unknown,1890,430.883263
+591,Chilton Automobile Directory,Unknown,en,['Automobiles'],3,0,Unknown,1919,430.883263
+593,Directory of Environmental Life Scientists: Ohio River Valley region,Institute of Ecology,en,['Biologists'],3,0,Unknown,1974,430.883263
+594,Thomas Register of American Manufacturers,Unknown,en,['Manufactures'],3,0,Unknown,2002,430.883263
+595,The Eclectic Library Catalog,Unknown,en,['American periodicals'],3,0,Unknown,1910,430.883263
+596,Current Policies and Practices in European Social Anthropology Education,Dorle Dracklé Iain R. Edgar,en,['Education'],3,0,Berghahn Books,2004,260
+597,Human Development in the Indian Context,Margaret Khalakdina,en,['Business & Economics'],3,0,SAGE Publications India,2008,392
+598,Key Debates in Anthropology,Tim Ingold,en,['Social Science'],3,0,Routledge,2003,320
+599,Social Adaptation to Food Stress,Paul E. Minnis,en,['Social Science'],3,0,University of Chicago Press,1985,239
+600,Karma,Unknown,en,['Religion'],3,0,Univ of California Press,1983,313
+601,Anthropological Practice,Judith Okely,en,['Social Science'],3,0,Berg,2013,224
+602,"Cultural Differences, the Nation State, and Rethinking Ethnicity Theory",Charles F. Keyes,en,['Indigenous peoples'],3,0,Unknown,2001,31
+604,Applications of Anthropology,Sarah Pink,en,['Social Science'],3,0,Berghahn Books,2005,256
+605,Southeast Asian Research Tools: Thailand,University of Hawaii at Manoa. Southeast Asian Studies Program,en,['Reference books'],5,0,Unknown,1979,430.883263
+606,NASA technical note,Unknown,en,['Aeronautics'],3,0,Unknown,1961,430.883263
+607,Technology Review,Unknown,en,['Technology'],3,0,Unknown,2005,430.883263
+608,"Adams' New Musical Dictionary of Fifteen Thousand Technical Words, Phrases, Abbreviations, Initials, and Signs Employed in Musical and Rhythmical Art and Science, in Nearly Fifty Ancient and Modern Languages",John Stowell Adams,en,['Music'],3,0,Unknown,1865,271
+609,Technical Research Note,United States. Dept. of the Army,en,['Military research'],3,0,Unknown,1958,430.883263
+610,Refrigeration Engineering,Unknown,en,None,3,0,Unknown,1924,430.883263
+612,AB Bookman's Weekly,Unknown,en,['Antiquarian booksellers'],3,0,Unknown,1996,430.883263
+615,The Play of Daniel Keyes' Flowers for Algernon,Unknown,en,['English drama'],4.5,0,Heinemann,1993,128
+616,The Southern Frontier 1670-1732,Verner Crane,en,['History'],3,0,University of Alabama Press,1928,391
+617,Spanish Peaks Wilderness Area,United States. Congress. Senate. Committee on Interior and Insular Affairs. Subcommittee on Public Lands,en,['Spanish Peaks Wilderness (Colo.)'],3,0,Unknown,1972,156
+620,School Achievement and Failure in Portuguese and Spanish Speaking Countries,Adelinda  A. Candeias Heldemerina S. Pires,en,None,3,0,Frontiers Media SA,2018,430.883263
+621,World war in Spain,Arthur Frederic Loveday,en,['History'],3,0,Unknown,1939,206
+622,"The Southern Frontier, 1670-1732",Verner Winslow Crane,en,['British'],3,0,Unknown,1929,389
+623,"A Dictionarie in Spanish and English, first published ... by R. Percivale ... Now enlarged ... by J. Minsheu ... Hereunto ... is annexed an ample English Dictionarie, ... with the Spanish words ... adjoyned, etc. L.P.",Richard PERCYVALL,en,None,3,0,Unknown,1623,430.883263
+624,The Booklist,Unknown,en,['Books'],3,0,Unknown,1960,430.883263
+625,Rhode Island Historical Society Collections,Unknown,en,['Local history'],3,0,Unknown,1902,430.883263
+627,Journal of the Executive Proceedings of the Senate of the United States of America,United States. Congress. Senate,en,['Legislative journals'],3,0,Unknown,1931,430.883263
+628,Journal of the Executive Proceedings of the Senate,United States. Congress. Senate,en,['Legislation'],3,0,Unknown,1961,430.883263
+629,Who Owns Whom,Unknown,en,['Corporations'],3,0,Unknown,1999,430.883263
+631,All this is Louisiana,Frances Parkinson Keyes,en,['Louisiana'],3,0,Unknown,1950,317
+633,The Chess Players,Frances Parkinson Keyes,en,None,4,0,Ishi Press,2015,544
+634,The Career of David Noble,Frances Parkinson Keyes,en,['Fiction in English'],3,0,Unknown,1921,301
+635,Joy Street,Frances Parkinson Keyes,en,None,3,0,Unknown,2013,510
+636,Apple parers,Don Thornton,en,['Antiques & Collectibles'],3,0,Thornton House Pub & Graphics,1997,239
+637,Holstein-Friesian Herd-book,Holstein-Friesian Association of America,en,['Cattle'],3,0,Unknown,1959,430.883263
+638,The Canadian Record of Performance for Purebred Dairy Cattle,Canada. Dept. of Agriculture. Production Service,en,['Cattle'],3,0,Unknown,1947,430.883263
+639,"Holstein-Friesian Herd-book, Containing a Record of All Holstein-Friesian Cattle ...",Holstein-Friesian Association of America,en,['Cattle'],3,0,Unknown,1959,430.883263
+640,Holstein-Friesian Herd Book,Holstein-Friesian Association of Canada,en,['Cattle'],3,0,Unknown,1956,430.883263
+645,Apple TV Portable Genius,Guy Hart-Davis,en,['Computers'],3,0,John Wiley & Sons,2012,288
+646,AFPTRC-TN.,Unknown,en,None,3,0,Unknown,1955,430.883263
+648,Advances in Cryptology – EUROCRYPT 2001,Birgit Pfitzmann,en,['Computers'],3,0,Springer,2003,544
+649,Manuals Combined: U.S. Army Special Forces And Navy Operational Obstetrics & Gynecology With Physical Exam Techniques,Unknown,en,None,3,0,Jeffrey Frank Jones,2000,4299
+650,AFHRL-TR.,Air Force Human Resources Laboratory,en,"['Aeronautics, Military']",3,0,Unknown,1968,430.883263
+651,"Huffed Masculinity. The Female Threat in Cain's ""Double Indemnity""",Stephan Riedl,en,['Literary Criticism'],3,0,GRIN Verlag,2017,17
+652,Teaching Students with Mental Retardation,Deanna J. Sands,en,['Education'],3,0,Paul H Brookes Publishing Company,2002,308
+653,Bibliographic Guide to Dance,Unknown,en,['Dance'],3,0,G K Hall,1992,430.883263
+654,Human Motivation and Interpersonal Relationships,Netta Weinstein,en,['Psychology'],3,0,Springer Science & Business Media,2014,360
+655,How Mentally Handicapped Children Learn Under Classroom Conditions: Brief screening instruments for evaluating the academic skills and personal adjustment of educable mentally handicapped children,Chicago (Ill.). Board of Education,en,['Children with mental disabilities'],3,0,Unknown,1961,430.883263
+657,Capitol Threat,William Bernhardt,en,['Fiction'],3,0,Ballantine Books,2007,400
+658,Outrageous fortune,Roger Keyes,en,['Biography & Autobiography'],3,0,David & Charles,1984,521
+659,Film Noir,Unknown,en,['Art'],3,0,Taschen,2004,191
+660,History of an idea,Allan Michael Hoffman,en,['Education'],3,0,Unknown,1981,305
+661,Assignment to catastrophe,Sir Edward Louis Spears (bart.),en,['History'],3,0,Unknown,1954,430.883263
+663,Destiny,Unknown,en,['African American periodicals'],3,0,Unknown,1995,430.883263
+664,Henry Wilson and the Coming of the Civil War,John L. Myers,en,['Biography & Autobiography'],3,0,University Press of Amer,2005,565
+665,The Hotline,Unknown,en,['Political campaigns'],3,0,Unknown,1995,430.883263
+667,The University Geological Survey of Kansas,Kansas Geological Survey,en,['Coal'],3,0,Unknown,1898,347
+668,State Geological Survey of Kansas,Kansas Geological Survey,en,['Geology'],3,0,Unknown,1898,430.883263
+669,Reports on the University Geological Survey of Kansas,Kansas Geological Survey,en,['Geology'],3,0,Unknown,1898,430.883263
+670,Special Report on Coal,Erasmus Haworth,en,['Coal'],3,0,Unknown,1898,347
+671,State Geological Survey of Kansas. [Reports],Kansas Geological Survey,en,['Geology'],3,0,Unknown,1898,430.883263
+673,Proceedings of the Board of Regents,Unknown,en,None,3,0,UM Libraries,1996,430.883263
+674,Language Planning Processes,Rubin Jernudd,en,['Language Arts & Disciplines'],4,0,Walter de Gruyter,1977,285
+676,Sexual Symmetry,David Konstan,en,['History'],3,0,Princeton University Press,2014,286
+677,Beginning Blender,Lance Flavell,en,['Computers'],4,0,Apress,2010,448
+678,Molecular Symmetry and Spectroscopy,Unknown,en,['Molecular spectra'],4,0,NRC Research Press,2006,752
+679,Identification and System Parameter Estimation,Unknown,en,['System identification'],3,0,Pergamon,1985,1258
+680,Proceedings of the ... Midwest Symposium on Circuits and Systems,Unknown,en,['Electrical engineering'],3,0,Unknown,2003,430.883263
+681,The Development of Optically Active Three-fold Symmetric Ligands and Their Application to Stereoselective Organic Transformations,Michael Charles Keyes,en,None,3,0,Unknown,1997,416
+682,Solid State Physics,Unknown,en,['Technology & Engineering'],3,0,Academic Press,2014,437
+683,Journal of Electronics,Unknown,en,['Electronics'],3,0,Unknown,1956,430.883263
+684,Acta Numerica 1994:,Arieh Iserles,en,['Mathematics'],3,0,Cambridge University Press,1994,578
+685,Refined techniques for blind equalization of phase shift keyed (PSK) and quadrature amplitude modulated (QAM) digital communications signals,Roy Axford,en,None,3,0,Unknown,1995,374
+686,"Grief Counseling and Grief Therapy, Fifth Edition",J. William Worden PhD ABPP,en,['Social Science'],3,0,Springer Publishing Company,2018,352
+687,Advanced Practice Nursing in the Care of Older Adults,Lori Martin-Plank,en,['Medical'],3,0,F.A. Davis,2018,544
+688,Small Treasons,Mark Powell,en,['Fiction'],3,0,Simon and Schuster,2017,384
+689,Sammy Keyes and the Power of Justice Jack,Wendelin Van Draanen,en,['Juvenile Fiction'],3,0,Knopf Books for Young Readers,2012,304
+693,Arranging Grief,Dana Luciano,en,['Literary Criticism'],3,0,NYU Press,2007,345
+694,Principles and Practice of Grief Counseling,Unknown,en,['Social Science'],3,0,Springer Publishing Company,2012,256
+695,Charles Henry Keyes,Fenton Keyes,en,['College presidents'],3,0,Unknown,1990,348
+696,"Transforming Engagement, Happiness and Well-Being",Unknown,en,['Business & Economics'],3,0,Springer,2017,255
+697,"The Army of the Potomac: Birth of command, November 1860-September 1861",Russel Harrison Beatie,en,['History'],3,0,Da Capo Press,2002,676
+698,The Army of the Potomac,Russell H. Beatie,en,['History'],2,0,Da Capo Press,2002,676
+699,Sammy Keyes and the Hollywood Mummy,Wendelin Van Draanen,en,['Juvenile Fiction'],4,0,Yearling,2009,288
+702,Beauty and Sadness,Yasunari Kawabata,en,['Fiction'],3,0,Vintage,2013,224
+704,Look Back In Sadness: One Man's Experience with Psychiatry,Unknown,en,None,3,0,Dorrance Publishing,2000,430.883263
+705,The Hope and the Sadness,Siobhán Lankford,en,['Cork (Ireland : County)'],3,0,Unknown,1980,274
+706,Stabilizing the Prices of Certain Agricultural Products,United States. Congress. Senate. Committee on Agriculture and Forestry,en,['Agricultural prices'],3,0,Unknown,1922,430.883263
+707,Translocal Geographies,Unknown,en,['Social Science'],3,0,"Ashgate Publishing, Ltd.",2011,226
+708,Department of Agriculture and Related Agencies Appropriations for Fiscal Year 1970,United States. Congress. Senate. Committee on Appropriations,en,None,3,0,Unknown,1969,430.883263
+709,Department of Agriculture and Related Agencies Appropriations for Fiscal Year 1970: Program payments made to producers during calendar year 1968; subsidy payments for agricultural exports,United States. Congress. Senate. Committee on Appropriations,en,None,3,0,Unknown,1969,430.883263
+710,Pacific Rural Press,Unknown,en,None,3,0,Unknown,1878,430.883263
+711,"Agricultural Appropriation Bill for 1933, Hearings Before ... 72-1, on H.R. 7912",United States. Congress. Senate. Appropriations Committee,en,None,3,0,Unknown,1932,229
+712,The Chemist,Unknown,en,None,3,0,Unknown,1945,430.883263
+713,Poultry Tribune,Unknown,en,['Poultry'],3,0,Unknown,1961,430.883263
+714,"Report of the Auditor of the State of South Dakota, for the Fiscal Year Ending ...",Unknown,en,['Finance'],3,0,Unknown,1929,430.883263
+715,"Proceedings of the 8th Pacific Science Congress of the Pacific Science Association Held at the University of the Philippines, Diliman, Quezon City, 16th to 28th November 1953",Unknown,en,['Pacific Area'],3,0,Unknown,1954,430.883263
+716,Poultry Success,Unknown,en,['Poultry'],3,0,Unknown,1923,430.883263
+718,American Poultry Journal,Unknown,en,['Poultry'],3,0,Unknown,1922,430.883263
+719,Poultry Processing and Marketing,Unknown,en,['Eggs'],3,0,Unknown,1962,430.883263
+720,American Poultry Advocate,Unknown,en,['Poultry'],3,0,Unknown,1914,430.883263
+721,Governor's Budget,California. Governor,en,['Budget'],3,0,Unknown,1964,430.883263
+722,Budget Submitted to the California Legislature,California. Governor,en,['Budget'],3,0,Unknown,1964,430.883263
+723,Extension Echoes,Unknown,en,None,3,0,Unknown,1940,430.883263
+724,Albany City Directory,Unknown,en,['Albany (N.Y.)'],3,0,Unknown,1922,430.883263
+725,Canadian Poultry Review,Unknown,en,['Canada'],3,0,Unknown,1954,430.883263
+726,Institute Of Biblical Studies The Book Of Genesis,Terry Puett,en,None,3,0,Lulu.com,2000,430.883263
+727,International Monetary Fund Annual Report 2007,International Monetary Fund,en,['Business & Economics'],3,0,International Monetary Fund,2007,54
+728,Mitteilungen der Münchner Entomologischen Gesellschaft,Unknown,de,['Entomology'],3,0,Unknown,1986,430.883263
+729,الانا الواقعية والذاتية,ديفيد هاوكينز,ar,None,3,0,دارالخيال,2017,544
+730,نحو تقويم جديد للكتابة العربية,طالب عبد الرحمن,ar,['Arabic alphabet'],3,0,Unknown,1999,156
+731,The Ways of Men (Arabic Edition),Eliot Gregory,en,None,3,0,Createspace Independent Publishing Platform,2016,178
+732,مقامات الحريري - [اصفر],الحريري,en,['Arabic literature'],3,0,Unknown,2008,568
+733,Tales and Fantasies (Arabic Edition),Robert Stevenson,en,None,3,0,Createspace Independent Publishing Platform,2016,128
+734,Genetics of Psychological Well-Being,Michael Pluess,en,['Psychology'],3,0,OUP Oxford,2015,296
+735,Encyclopedia of Genetics,Eric C.R. Reeve,en,['Reference'],3,0,Routledge,2014,972
+736,Compendium of Problems in Genetics,Unknown,en,['Science'],3,0,William C Brown Pub,1994,362
+737,Studies in the Genetics of Drosophila,John Thomas Patterson,en,['Drosophila'],3,0,Unknown,1952,430.883263
+740,Cardiovascular Genetics and Genomics in Clinical Practice,Unknown,en,['Medical'],3,0,Demos Medical Publishing,2014,246
+741,American Men and Women of Science,Unknown,en,['Medical research personnel'],3,0,Unknown,1977,1720
+742,"Reproductive Genetics, Gender and the Body",Elizabeth Ettorre,en,['Medical'],3,0,Routledge,2013,168
+743,Molecular Genetics of Sex Determination,Stephen S. Wachtel,en,['Medical'],3,0,Unknown,1994,518
+744,"Bibliography of North American Geology, 1933 and 1934",Emma Mertins Thom,en,['Geology'],3,0,Unknown,1935,389
+745,"Contributions to Economic Geology (short Papers and Preliminary Reports, 1925",Gerald Francis Loughlin,en,['Antimony'],3,0,Unknown,1926,167
+747,Invisible Master,Leo Lyon Zagami,en,"['Body, Mind & Spirit']",3,0,CCC Publishing,2018,304
+748,Enochian Magic for Beginners,Donald Tyson,en,"['Body, Mind & Spirit']",4,0,Llewellyn Worldwide,2002,384
+749,The Mexican American and the Law,Carlos E. Cortes,en,['Social Science'],3,0,New York : Arno Press,1931,142
+750,Justice for Salcido,Unknown,en,['Mexican Americans'],3,0,Unknown,1948,31
+751,Annual,United Fresh Fruit and Vegetable Association,en,['Fruit trade'],3,0,Unknown,1974,430.883263
+752,Yale journal of law & the humanities,Unknown,en,None,3,0,Unknown,1991,430.883263
+753,Merit and the Millennium,Anthony R. Walker,en,['Lahu (Asian people)'],3,0,Unknown,2003,907
+754,Man of the Mist,Elizabeth Mayne,en,['Fiction'],3,0,Harlequin,2011,304
+755,A Historical Guide to Henry David Thoreau,William E. Cain,en,['Literary Criticism'],3,0,Oxford University Press,2000,304
+756,Soul to soul,Mary Keyes Burgess,en,['Cooking'],3,0,Woodbridge Press Publishing Company,1976,158
+757,The Lutheran,Unknown,en,['Lutheran Church'],3,0,Unknown,1979,430.883263
+758,Let's Go Soul Winning,Jack Hyles,en,None,3,0,Sword of the Lord Publishers,1980,430.883263
+760,The Science of the Soul in Colonial New England,Sarah Rivett,en,['History'],3,0,UNC Press Books,2012,384
+763,Kahlil Gibran,Unknown,en,['Biography & Autobiography'],5,0,Interlink Publishing Group Incorporated,1998,456
+764,How to Teach Meditation to Children,Unknown,en,"['Body, Mind & Spirit']",3,0,Duncan Baird Publishers,2017,224
+765,Human Rights in Thailand,Don F. Selby,en,['Political Science'],3,0,University of Pennsylvania Press,2018,256
+766,Thailand's International Meditation Centers,Brooke Schedneck,en,['Social Science'],3,0,Routledge,2015,198
+767,Collected poems,Unknown,en,['Poetry'],3,0,Carcanet Press Ltd.,2002,135
+768,Astral Travel,Unknown,en,['Astral projection'],3,0,Motilal Banarsidass Publ.,2000,240
+769,Making Fields of Merit,Monica Lindberg Falk,en,['History'],3,0,Unknown,2007,283
+770,Meditation For Dummies,Stephan Bodian,en,"['Body, Mind & Spirit']",4,0,John Wiley & Sons,2011,384
+771,"A meditation upon the Lord's prayer, written by the kings maiestie for the benefit of all his subjects, especially of such as follow the court",James I (king of Gt. Britain.),en,"[""Lord's prayer""]",3,0,Unknown,1619,430.883263
+772,Letters on Occult Meditation,Alice Bailey,en,['Meditation'],3,0,Unknown,1922,357
+773,Bottom Line's Health News,Unknown,en,None,3,0,Unknown,2006,430.883263
+774,Yoga Journal,Unknown,en,None,3,0,Unknown,1987,72
+778,Yoga and Science in Pain Care,Shelly Prosko,en,['Health & Fitness'],3,0,Singing Dragon,2019,312
+780,Canadiana,Unknown,en,['Canadian literature'],3,0,Unknown,1978,430.883263
+782,Anatomy of Hatha Yoga,David Coulter,en,['Hatha yoga'],4,0,Motilal Banarsidass Publ.,2001,623
+784,Agriculture in Northern Ireland,Unknown,en,['Agriculture'],3,0,Unknown,1972,430.883263
+785,Scottish Agriculture,Unknown,en,['Agriculture'],3,0,Unknown,1969,430.883263
+787,Poultry Digest,Unknown,en,['Poultry'],3,0,Unknown,1970,430.883263
+790,National Poultry Digest,Unknown,en,['Poultry'],3,0,Unknown,1970,430.883263
+791,Building a Dune Buggy - The Essential Manual,Paul Shakespeare,en,['Transportation'],3,0,Veloce Publishing Ltd,2006,144
+792,The Color Correction Handbook,Alexis Van Hurkman,en,['Computers'],3,0,Pearson Education,2010,544
+793,The Art and Science of Digital Compositing,Ron Brinkmann,en,['Computers'],5,0,Morgan Kaufmann,2008,704
+794,Records and Briefs of the United States Supreme Court,Unknown,en,"['Law reports, digests, etc']",3,0,Unknown,1832,430.883263
+795,"Helium Production at the Bureau of Mines Keyes, Okla., Plant",Unknown,en,['Helium'],3,0,Unknown,1961,16
+797,Road Test,Unknown,en,['Automobiles'],3,0,Unknown,1976,430.883263
+798,Motor World Wholesale,Unknown,en,None,3,0,Unknown,1920,430.883263
+799,"Motor World for Jobbers, Dealers and Garagemen",Unknown,en,['Automobile dealers'],3,0,Unknown,1919,430.883263
+803,Transit Journal ...,Unknown,en,None,5,0,Unknown,1916,430.883263
+804,Automotive News,Unknown,en,['Automobile industry and trade'],3,0,Unknown,1977,430.883263
+805,Reports of Cases Determined in the Courts of Appeal of the State of California,Unknown,en,"['Law reports, digests, etc']",3,0,Unknown,2012,430.883263
+809,United States Investor,Unknown,en,['Banks and banking'],3,0,Unknown,1918,430.883263
+810,The National Monthly Stock Summary,Unknown,en,['Stocks'],3,0,Unknown,1922,430.883263
+811,The ... Book of Lists,Unknown,en,['Business enterprises'],3,0,Unknown,1990,430.883263
+812,Index of Patents Issued from the United States Patent Office,United States. Patent Office,en,['Patents'],3,0,Unknown,1953,430.883263
+813,Science Abstracts,Unknown,en,['Electrical engineering'],3,0,Unknown,1965,430.883263
+814,The Boston Medical and Surgical Journal,Unknown,en,['Medicine'],3,0,Unknown,1889,430.883263
+815,Down East,Unknown,en,['Maine'],3,0,Unknown,1985,430.883263
+816,Documents of the Assembly of the State of New York,New York (State). Legislature. Assembly,en,['Government publications'],3,0,Unknown,1911,430.883263
+817,"Annual Report of the Public Service Commission, Second District",Unknown,en,['Electric utilities'],3,0,Unknown,1913,430.883263
+818,Annual Report,New York (State). Public Service Commission. 2d District,en,None,3,0,Unknown,1913,430.883263
+819,Documents of the Senate of the State of New York,New York (State). Legislature. Senate,en,['New York (State)'],3,0,Unknown,1913,430.883263
+820,24 Volumes Combined: NEETS - U.S. Navy Electricity and Electronics Training Series ,Unknown,en,None,3,0,Unknown,1999,4976
+821,Specifications and Drawings of Patents Relating to Electricity Issued by the U. S.,Unknown,en,['Electric apparatus and appliances'],3,0,Unknown,1889,430.883263
+822,Specifications and Drawings of Patents Relating to Electricity,Unknown,en,['Electric apparatus and appliances'],3,0,Unknown,1882,430.883263
+824,Flowers for Algernon: A Novel by Daniel Keyes (Trivia-On-Books),Trivion Books,en,['Study Aids'],3,0,Unknown,2016,430.883263
+825,"Art Book News Annual, volume 4: 2008Art Book News Annual, volume 4: 2008",Unknown,en,None,3,0,Book News Inc.,2000,430.883263
+826,Report to Congress,United States Information Agency,en,"['Communication, International']",3,0,Unknown,2000,430.883263
+827,The Reporter’s Notebook,Dennis Bloodworth,en,['Travel'],3,0,Marshall Cavendish International Asia Pte Ltd,2010,483
+828,The Rotarian,Unknown,en,None,3,0,Unknown,1963,64
+829,Far Eastern Economic Review,Unknown,en,['East Asia'],3,0,Unknown,1989,430.883263
+830,Publications of the Navy Records Society,Unknown,en,['Naval history'],3,0,Unknown,1980,430.883263
+831,Directory of Foreign Manufacturers in the United States,Unknown,en,['Technology & Engineering'],3,0,Georgia State University Business Press,1994,419
+832,The Hollywood Reporter,Unknown,en,['Motion pictures'],3,0,Unknown,2007,430.883263
+833,Directory of American Firms Operating in Foreign Countries,Juvenal Londoño Angel,en,"['Corporations, American']",3,0,Unknown,1991,1398
+834,Let's Draw Manga,Unknown,en,['Art'],3,0,"Digital Manga, Inc.",2004,131
+835,Manga,Toni Johnson-Woods,en,['Literary Criticism'],3,0,Bloomsbury Publishing USA,2010,368
+836,"Comics, Manga, and Graphic Novels",Robert S. Petersen,en,['Comics & Graphic Novels'],3,0,ABC-CLIO,2011,274
+837,Manga for the Beginner Shoujo,Christopher Hart,en,['Art'],5,0,Watson-Guptill,2011,192
+838,The Mineral Resources of New Mexico,Fayette Alexander Jones,en,['Mines and mineral resources'],3,0,Unknown,1915,77
+841,"Watching Anime, Reading Manga",Fred Patten,en,['Performing Arts'],5,0,"Stone Bridge Press, Inc.",2004,383
+842,Manga from the Floating World,Adam L. Kern,en,['Design'],3,0,Harvard Univ Council on East Asian,2006,567
+843,Japanese Religions,Unknown,en,['Japan'],3,0,Unknown,2005,430.883263
+844,"Global Children, Global Media",Unknown,en,['Social Science'],3,0,Springer,2007,222
+845,U.S. News & World Report,Unknown,en,['United States'],3,0,Unknown,2000,430.883263
+846,Ideas que pegan,Unknown,en,['Business & Economics'],3,0,LID Editorial,2011,260
+847,Cyber Ireland,C. Lynch,en,['Social Science'],3,0,Springer,2014,178
+848,Creating High-quality Classroom Assignments,Lindsay Clare Matsumura,en,['Education'],5,0,R&L Education,2005,155
+849,Made to Stick,Unknown,en,['Business & Economics'],4,0,Random House,2007,336
+850,"Children's Books in Print, 2007",Unknown,en,['Authors'],3,0,Unknown,2006,430.883263
+851,Television Guide,Unknown,en,['Television programs'],3,0,Unknown,2002,430.883263
+852,Business Periodicals Index,Unknown,en,['Business'],3,0,Unknown,1999,430.883263
+853,På egen hand,Marian Keyes,sv,None,3,0,Norstedts,2018,717
+854,The Shining Wall,Melissa Ferguson,en,['Fiction'],3,0,Transit Lounge ,2019,298
+855,Programming Android,Laird Dornin G. Blake Meike,en,['Computers'],5,0,"""O'Reilly Media, Inc.""",2011,504
+856,Raspberry Pi Android Projects,Gokhan Kurt,en,['Computers'],3,0,Packt Publishing Ltd,2015,138
+857,How to Build an Android,David F. Dufty,en,['Technology & Engineering'],4,0,Henry Holt and Company,2012,288
+858,Unlocking Android,Charlie E. Collins,en,['Computers'],3,0,Manning Publications,2009,392
+859,Stranger in a Strange Land,Robert A. Heinlein,en,['Fiction'],4,0,Penguin,1987,448
+860,Red-haired android,Jeremy Reed,en,['Poetry'],3,0,Unknown,1992,280
+862,Almost Human,William F. Nolan,en,['Androids'],3,0,Unknown,1965,227
+864,iPhone: The Missing Manual,David Pogue,en,['Computers'],4.5,0,"""O'Reilly Media, Inc.""",2008,376
+865,Beginning iPhone Development,Fredrik Olsson David Mark Jeff LaMarche,en,['Computers'],3,0,Apress,2014,771
+866,Beginning iPhone Development with Swift,Fredrik Olsson Jack Nutting David Mark,en,['Computers'],3,0,Apress,2014,828
+867,Beginning iPhone Development with Swift 3,Kim Topley David Mark Fredrik Olsson,en,['Computers'],3,0,Apress,2016,774
+868,Beginning iPhone Development with Swift 4,Molly K. Maskrey,en,['Computers'],3,0,Apress,2017,552
+869,Beginning iPhone 4 Development,Jeff LaMarche,en,['Computers'],3,0,Apress,2011,676
+870,iPhone Advanced Projects,Dylan Bruzenak Joachim Bondo Owen Goss Peter Honeder Ray Kiddy Steve Finkelstein Tom Harrington Jonathan Saggau Noel Llopis Ben Smith Joe Pezzillo Florian Pflug,en,['Computers'],3,0,Apress,2010,392
+871,IPhone Fully Loaded,Andy Ihnatko,en,['Computers'],3,0,John Wiley & Sons,2008,272
+872,The IPhone Book,Unknown,en,['Computers'],4.5,0,Unknown,2007,219
+873,The Collector,Scott Wittenburg,en,['Fiction'],3,0,Lulu.com,2012,347
+874,Android Mobile Computing Using Samsung Tablets and Smartphones Running Android 2.3,Rene Djurup,en,['Computers'],3,0,Rebidu,2013,375
+875,Android Mobile Computing Using Samsung Tablets and Smartphones Running Android 2.3 - Kindle version,René Djurup,en,None,3,0,Rebidu,2013,430.883263
+876,My Samsung Galaxy S5,Steve Schwartz,en,['Computers'],3,0,Que Publishing,2014,656
+877,My Samsung Galaxy S 4,Steve Schwartz,en,['Computers'],3,0,Que Publishing,2013,544
+878,My Samsung Galaxy Tab 4,Unknown,en,['Computers'],5,0,Que Publishing,2014,496
+879,How to Do Everything Samsung Galaxy Tab,Guy Hart-Davis,en,['Computers'],3,0,McGraw Hill Professional,2011,336
+880,The PC and Gadget Help Desk,Mark Edward Soper,en,['Computers'],3,0,Que Publishing,2014,696
+881,Android Tips and Tricks,Guy Hart-Davis,en,['Computers'],3,0,Que Publishing,2014,544
+882,Teach Yourself VISUALLY Android Phones and Tablets,Unknown,en,['Computers'],3,0,John Wiley & Sons,2013,320
+883,"The Healthy PC: Preventive Care, Home Remedies, and Green Computing, 2nd Edition",Guy Hart-Davis,en,['Computers'],3,0,McGraw Hill Professional,2011,304
+884,Bullying in North American Schools,Unknown,en,['Education'],3,0,Routledge,2010,336
+885,Reports of the Treasurer and the County Commissioners,Berkshire County (Mass.),en,"['Finance, Public']",3,0,Unknown,1891,430.883263
+886,Wilson Library Bulletin,Unknown,en,['Libraries'],3,0,Unknown,1943,430.883263
+887,The Boston Directory,Unknown,en,['Boston (Mass.)'],5,0,Unknown,1873,430.883263
+888,Lg LB Helping Mom 4pk,Anna Keyes,en,None,3,0,Unknown,2015,430.883263
+889,Methods in Immunotoxicology,Jack H. Dean,en,['Medical'],3,0,Wiley-Liss,1995,552
+890,Holstein Friesian Register,Unknown,en,['Cattle'],3,0,Unknown,1906,430.883263
+891,Journal of the Senate of Maine,Maine. Legislature. Senate,en,['Maine'],3,0,Unknown,1909,430.883263
+892,"Moody's Manual of Investments, American and Foreign",Unknown,en,['Corporations'],3,0,Unknown,1933,430.883263
+893,Nuclear Science Abstracts,Unknown,en,['Nuclear energy'],3,0,Unknown,1970,430.883263
+894,Criminology Goes to the Movies,Unknown,en,['Law'],3,0,NYU Press,2011,236
+895,Shades of Gray,Daniel Veirs,en,['Fiction'],3,0,Redemption Press,2014,430.883263
+896,Tyler Perry,Janice D. Hamlet,en,['Performing Arts'],3,0,Univ. Press of Mississippi,2019,136
+897,Costume Design in the Movies,Elizabeth Leese,en,['Antiques & Collectibles'],3,0,Courier Corporation,2012,176
+903,Godzilla: King of the Monsters - the Official Movie Novelisation,Greg Keyes,en,['Fiction'],3,0,Titan Books,2019,325
+904,"Billy Wilder, American Film Realist",Richard Armstrong,en,['Performing Arts'],3,0,McFarland,2015,172
+905,A Divided World,Nick Smedley,en,['Performing Arts'],3,0,Intellect Books,2011,282
+907,Dark cinema,Jon Tuska,en,['Language Arts & Disciplines'],3,0,Praeger Pub Text,1984,305
+908,Magill's Cinema Annual,Frank Northen Magill,en,['Performing Arts'],3,0,Gale / Cengage Learning,1986,690
+909,Success in the Cinema MoneyMaking Movies,John Howard Reid,en,['Performing Arts'],1,0,Lulu.com,2006,272
+910,Hollywood's dark cinema,R. Barton Palmer,en,['Performing Arts'],3,0,Twayne Pub,1994,206
+911,Cinema as Weather,Kristi McKim,en,['Art'],3,0,Routledge,2013,217
+912,Science-fiction & Fantasy Cinema,John Howard Reid,en,['Performing Arts'],5,0,Lulu.com,2007,320
+913,Cinema of Obsession,Unknown,en,['Performing Arts'],3,0,Hal Leonard Corporation,2007,392
+914,The Digital Hand,James W. Cortada,en,['Business & Economics'],3,0,Oxford University Press,2006,629
+915,X Internet,Jessica Keyes,en,['Computers'],3,0,CRC Press,2007,416
+916,Internet Management,Jessica Keyes,en,['Computers'],3,0,CRC Press,1999,776
+917,How to be a Successful Internet Consultant,Jessica Keyes,en,['Business & Economics'],3,0,Computing McGraw-Hill,1997,435
+918,Datacasting,Jessica Keyes,en,['Computers'],3,0,McGraw-Hill Companies,1998,555
+919,Security Technologies for the World Wide Web,Rolf Oppliger,en,['Computers'],3,0,Artech House,2003,416
+920,SCLC,Unknown,en,['African Americans'],3,0,Unknown,1996,430.883263
+921,Web Services,Liang-Jie Zhang,en,['Computers'],3,0,Springer Science & Business Media,2004,303
+922,Going Global: An Information Sourcebook for Small and Medium-sized Businesses,Susan C. Awe,en,['Language Arts & Disciplines'],3,0,Libraries Unlimited,2009,265
+924,Business Week,Unknown,en,['Business'],3,0,Unknown,1957,430.883263
+925,Quantum Roots,Kyle Keyes,en,['Fiction'],3,0,Createspace Independent Pub,2012,262
+926,Foundations of Quantum Mechanics in the Light of New Technology,Sadao Nakajima,en,['Science'],3,0,World Scientific,1996,482
+928,Quantum Roots II,Kyle Keyes,en,None,3,0,Kyle Keyes,2017,430.883263
+929,Advances in Cryptology,Alexandra Boldyreva,en,['Cryptography'],3,0,Springer,1998,606
+931,"Casenote Legal Briefs for Contracts, Keyed to Crandall and Whaley",Casenote Legal Briefs,en,['Law'],3,0,Wolters Kluwer Law & Business,2012,160
+932,Chaos in Classical and Quantum Mechanics,Martin C. Gutzwiller,en,['Mathematics'],5,0,Springer Science & Business Media,1991,432
+933,Quantum Mechanics with Applications to Nanotechnology and Information Science,Unknown,en,['Science'],3,0,Academic Press,2013,992
+934,Quantum Electronics,Unknown,en,['Quantum electronics'],3,0,Unknown,1964,1923
+937,"Chemistry, key to better living",American Chemical Society,en,['Science'],3,0,Unknown,1951,244
+940,Molecular Modeling and Theory in Chemical Engineering,Morton M. Denn John H. Seinfeld Arup Chakraborty Jackie Ying Nicholas Peppas,en,['Technology & Engineering'],3,0,Elsevier,2001,493
+941,Chemical Engineering,Unknown,en,"['Chemistry, Technical']",3,0,Unknown,1985,430.883263
+942,Concepts of Chemical Engineering 4 Chemists,Stefaan J. R. Simons,en,['Technology & Engineering'],3,0,Royal Society of Chemistry,2007,350
+943,Sources of Engineering Information,Blanche Harris Dalton,en,['Engineering'],3,0,Univ of California Press,1948,109
+944,Chemical Engineering Progress,Unknown,en,"['Chemistry, Technical']",3,0,Unknown,1997,430.883263
+945,Annual Report of the Bureau of Animal Industry for the Year ...,United States. Bureau of Animal Industry,en,['Animal industry'],3,0,Unknown,1886,430.883263
+946,Queer Ecologies,Unknown,en,['Philosophy'],3,1,Indiana University Press,2010,424
+947,"Nimble, Focused, Feisty",Sara Roberts,en,['Business & Economics'],3,0,BenBella Books,2016,336
+951,"Water Use in the Yuba and Bear River Basins, California",Unknown,en,['Bear River Watershed (Calif.)'],3,0,Unknown,1969,438
+952,The Saturday Evening Post,Unknown,en,None,3,0,Unknown,1943,430.883263
+953,Ethnomusicology at UCLA,Unknown,en,['Ethnomusicologists'],3,0,Unknown,1997,430.883263
+955,The Keyes and Gleason families,Mary Keyes,en,None,3,0,Unknown,1971,184
+956,الصين شركة عملاقة,Ted Fishman,ar,['History'],3,0,العبيكان للنشر,2009,384
+957,Writers for young adults,Adele Sarkissian,en,['Literary Criticism'],3,0,Gale Cengage,1979,199
+958,Children's Authors and Illustrators,Adele Sarkissian,en,['Authors'],3,0,Unknown,1995,811
+960,Minutes of the East Ohio Conference of the Methodist Episcopal Church,Methodist Episcopal Church. East Ohio Conference,en,None,3,0,Unknown,1890,430.883263
+961,Light Absorption of Organic Colorants,Unknown,en,['Science'],3,0,Springer Science & Business Media,2013,248
+962,"Fashion, Work, and Politics in Modern France",S. Zdatny,en,['Business & Economics'],3,0,Springer,2006,325
+963,Modern Heterocyclic Chemistry,Juan José Vaquero,en,None,3,0,John Wiley & Sons,2011,633
+965,Cloth in West African History,Colleen E. Kriger,en,['History'],3,0,Rowman Altamira,2006,214
+966,تاريخ المكتبات,الفرد هيسيل/شعبات عبد العزيز خليفة/-,ar,None,3,0,ktab INC.,1993,200
+967,The History of the Renaissance World: From the Rediscovery of Aristotle to the Conquest of Constantinople,Susan Wise Bauer,en,['History'],4.5,0,W. W. Norton & Company,2013,768
+968,القسم الجامعي المنتج للبحوث,آن ماري ويبرمين شارون ماري لوند,ar,['Education'],3,0,العبيكان للنشر,2012,382
+969,Essays in Indian History,Irfan Habib,en,['History'],3,0,Anthem Press,2002,426
+970,"Abḥāth al-Nadwah al-ʻĀlamīyah al-Ūlá li-Tārīkh al-ʻUlūm ʻinda al-ʻArab, al-munʻaqidah bi-Jāmiʻat Ḥalab min 5-12 Rabīʻ al-Thānī 1396 al-muwāfiq li 5-12 Nīsān (Abrīl) 1976",Aḥmad Yūsuf Ḥasan,ar,['Science'],3,0,Unknown,1978,430.883263
+971,Paperbound Books in Print,Unknown,en,['Bibliography'],3,0,Unknown,1982,430.883263
+972,Books in Print Supplement,Unknown,en,['American literature'],3,0,Unknown,1982,430.883263
+975,"A History of Women's Hairstyles, 1500-1965",Jean Keyes,en,['Hairdressing'],3,0,Taylor & Francis,1967,86
+976,Computerworld,Unknown,en,None,3,0,Unknown,1980,136
+977,Religion and Orientalism in Asian Studies,Kiri Paramore,en,['Religion'],3,0,Bloomsbury Publishing,2016,232
+978,Doowop,Robert Pruter,en,['Music'],3,0,University of Illinois Press,1996,304
+981,Waltzing Into the Cold War,James Jay Carafano,en,['History'],3,0,Texas A&M University Press,2002,248
+983,History of Dane County;,Elisha W 1828-1910 Keyes,en,None,3,0,Franklin Classics,2018,988
+984,Beyond Our Means,Sheldon Garon,en,['History'],3,0,Princeton University Press,2011,488
+985,CJKV Information Processing,Ken Lunde,en,['Computers'],3,0,"""O'Reilly Media, Inc.""",1999,1101
+988,Adobe Premiere Pro CS3,Adobe Systems,en,['Computers'],3,0,Peachpit Press,2008,452
+989,Adobe Premiere Pro CS4 Classroom in a Book,Adobe Creative Team,en,['Computers'],5,0,Peachpit Press,2010,416
+990,Adobe Premiere Pro 2.0,Unknown,en,['Computers'],5,0,Adobe Press,2006,535
+991,Adobe After Effects CC Classroom in a Book (2014 release),Unknown,en,['Computers'],3,0,Adobe Press,2014,408
+992,PDF Reference,Adobe Systems,en,['Computers'],4,0,Adobe Press,2005,1213
+993,Adobe Kroger,Dan Sacharow,en,['Fiction'],3,0,iUniverse,2013,396
+994,Adobe ColdFusion Anthology,Unknown,en,['Computers'],3,0,Apress,2010,528
+997,Annual Institute on Securities Regulation,Practising Law Institute,en,['Securities'],3,0,Unknown,1979,430.883263
+998,Sammy Keyes and the Dead Giveaway,Wendelin Van Draanen,en,['Juvenile Fiction'],4,0,Yearling,2008,304
+1002,H.A.L.O,Derek Hart,en,['Fiction'],3,0,iUniverse,2003,252
+1003,Antiquarian Bookman,William White,en,['Booksellers and bookselling'],3,0,Unknown,1948,430.883263
+1004,Campaign 2000,William L. Benoit,en,['Language Arts & Disciplines'],3,0,Rowman & Littlefield Pub Inc,2003,286
+1007,Mineral Resources of Alaska,Alfred Hulse Brooks,en,['Geology'],3,0,Unknown,1913,308
+1008,A Southern Collection,Unknown,en,['Art'],3,0,University of Georgia Press,1993,248
+1009,The Guide to Catholic Literature,Walter Romig,en,['Catholic literature'],3,0,Unknown,1965,430.883263
+1011,Agenda,William Cookson,en,['English poetry'],3,0,Unknown,1983,430.883263
+1012,What Do We Tell the Children? Critical Essays on Children’s Literature,Unknown,en,['Literary Criticism'],3,0,Cambridge Scholars Publishing,2012,220
+1013,"Foreign languages, linguistics and philology",Jaques Cattell Press,en,"['Scholars, American']",3,0,Unknown,1978,430.883263
+1014,"""Swinging London"" by M. Keyes - a Stylistic Analysis of a Sample of Literary Prose",Sylvia Hadjetian,en,None,5,0,GRIN Verlag,2007,28
+1015,"Bibliography of North American Geology, 1929-1939",Emma Mertins Thom,en,['Geology'],3,0,Unknown,1944,1546
+1016,Bibliography of North American Geology,Unknown,en,['Geology'],3,0,Unknown,1909,430.883263
+1017,Race and Ethnicity in America: From Pre-contact to the Present [4 volumes],Unknown,en,['History'],3,0,ABC-CLIO,2019,1360
+1020,Latin America's Economic Challenge,Alan Lee Keyes,en,['Latin America'],3,0,Unknown,1986,3
+1021,Irish America,Unknown,en,['Irish'],3,0,Unknown,2002,430.883263
+1022,The Pan-American Geologist,Charles Rollin Keyes,en,['Geology'],3,0,Unknown,1937,430.883263
+1023,Arid Land Geom: Geom Crit Conc,David Evans,en,['Reference'],3,0,Routledge,2013,544
